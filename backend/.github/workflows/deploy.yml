@@ -1,0 +1,90 @@
+name: Deploy Backend
+
+on:
+  workflow_dispatch:
+
+env:
+  REGISTRY: localhost:5000
+  IMAGE_NAME: bhs-game-fuse/backend
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Create directory
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            mkdir -p /opt/gamefuse/backend
+      
+      - name: Copy docker-compose.yml
+        uses: appleboy/scp-action@v1
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          source: "docker-compose.yml"
+          target: "/opt/gamefuse/backend/"
+          strip_components: 1
+
+      - name: Deploy to Server
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            echo "${{ secrets.REGISTRY_PASS }}" | docker login ${{ env.REGISTRY }} -u ${{ secrets.REGISTRY_USER }} --password-stdin
+            cat <<EOF > /opt/gamefuse/backend/.env
+            DB_HOST=${{ secrets.DB_HOST }}
+            DB_PORT=${{ secrets.DB_PORT }}
+            DB_NAME=${{ secrets.DB_NAME }}
+            DB_USER=${{ secrets.DB_USER }}
+            DB_PASSWORD=${{ secrets.DB_PASSWORD }}
+            ANALYSIS_API_URL=${{ vars.ANALYSIS_API_URL }}
+            SECOND_SERVICE_URL=${{ vars.SECOND_SERVICE_URL }}
+            PUBLIC_KEY_PATH=${{ vars.PUBKEY_PATH }}
+            EOF
+            
+            cd /opt/gamefuse/backend
+            mkdir -p keys
+            chmod 700 keys
+            printf '%s' "${{ secrets.PUBKEY }}" > keys/auth_public.pem
+            chmod 600 keys/auth_public.pem
+            
+            cat <<EOF > docker-compose.yml
+            version: '3.8'
+            services:
+              app:
+                container_name: gamefuse-backend
+                image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
+                env_file:
+                  - .env
+                volumes:
+                  - /opt/gamefuse/backend/keys:/keys:ro
+                networks:
+                  - gamefuse
+                ports:
+                  - "127.0.0.1:8999:8000"
+                healthcheck:
+                  test: ["CMD-SHELL", "curl -f -s http://localhost:8000/docs || exit 1"]
+                  interval: 10s
+                  timeout: 5s
+                  retries: 3 
+                  start_period: 10s
+                restart: unless-stopped
+            
+            networks:
+              gamefuse:
+                external: true
+            EOF
+            
+            docker compose pull app
+            docker compose up -d --no-deps app
+            docker image prune -f

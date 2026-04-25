@@ -1,0 +1,46 @@
+name: Deploy Frontend
+
+on:
+  workflow_dispatch:
+
+env:
+  REGISTRY: localhost:5000
+  IMAGE_NAME: bhs-game-fuse/frontend
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Create directory
+        uses: appleboy/ssh-action@v1.2.5
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            mkdir -p /opt/gamefuse/frontend
+
+      - name: Copy docker-compose.yml
+        uses: appleboy/scp-action@v1.0.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          source: "docker-compose.yml"
+          target: "/opt/gamefuse/frontend"
+
+      - name: Deploy to Server
+        uses: appleboy/ssh-action@v1.2.5
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            echo "${{ secrets.REGISTRY_PASS }}" | docker login ${{ env.REGISTRY }} -u ${{ secrets.REGISTRY_USER }} --password-stdin
+            cd /opt/gamefuse/frontend
+            docker compose pull frontend
+            docker compose up -d --no-deps frontend
+            docker image prune -f

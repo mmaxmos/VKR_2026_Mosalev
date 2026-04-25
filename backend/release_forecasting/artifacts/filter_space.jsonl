@@ -1,0 +1,1400 @@
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": []}, "matched_games": 122527}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": []}, "matched_games": 80565}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": []}, "matched_games": 50160}
+{"filter": {"genres": ["action"], "tags": [], "categories": [], "languages": []}, "matched_games": 46190}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": [], "languages": []}, "matched_games": 45113}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": [], "languages": []}, "matched_games": 24100}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": [], "languages": []}, "matched_games": 22380}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": [], "languages": []}, "matched_games": 20964}
+{"filter": {"genres": ["free to play"], "tags": [], "categories": [], "languages": []}, "matched_games": 12159}
+{"filter": {"genres": ["early access"], "tags": [], "categories": [], "languages": []}, "matched_games": 11074}
+{"filter": {"genres": ["sports"], "tags": [], "categories": [], "languages": []}, "matched_games": 4881}
+{"filter": {"genres": ["racing"], "tags": [], "categories": [], "languages": []}, "matched_games": 4077}
+{"filter": {"genres": ["massively multiplayer"], "tags": [], "categories": [], "languages": []}, "matched_games": 2524}
+{"filter": {"genres": ["utilities"], "tags": [], "categories": [], "languages": []}, "matched_games": 1077}
+{"filter": {"genres": ["design & illustration"], "tags": [], "categories": [], "languages": []}, "matched_games": 580}
+{"filter": {"genres": ["animation & modeling"], "tags": [], "categories": [], "languages": []}, "matched_games": 477}
+{"filter": {"genres": ["education"], "tags": [], "categories": [], "languages": []}, "matched_games": 461}
+{"filter": {"genres": ["violent"], "tags": [], "categories": [], "languages": []}, "matched_games": 414}
+{"filter": {"genres": ["video production"], "tags": [], "categories": [], "languages": []}, "matched_games": 339}
+{"filter": {"genres": ["game development"], "tags": [], "categories": [], "languages": []}, "matched_games": 320}
+{"filter": {"genres": ["gore"], "tags": [], "categories": [], "languages": []}, "matched_games": 257}
+{"filter": {"genres": ["audio production"], "tags": [], "categories": [], "languages": []}, "matched_games": 225}
+{"filter": {"genres": ["software training"], "tags": [], "categories": [], "languages": []}, "matched_games": 219}
+{"filter": {"genres": ["photo editing"], "tags": [], "categories": [], "languages": []}, "matched_games": 180}
+{"filter": {"genres": ["web publishing"], "tags": [], "categories": [], "languages": []}, "matched_games": 112}
+{"filter": {"genres": ["nudity"], "tags": [], "categories": [], "languages": []}, "matched_games": 94}
+{"filter": {"genres": ["sexual content"], "tags": [], "categories": [], "languages": []}, "matched_games": 88}
+{"filter": {"genres": [], "tags": ["singleplayer"], "categories": [], "languages": []}, "matched_games": 50350}
+{"filter": {"genres": [], "tags": ["indie"], "categories": [], "languages": []}, "matched_games": 48552}
+{"filter": {"genres": [], "tags": ["action"], "categories": [], "languages": []}, "matched_games": 36809}
+{"filter": {"genres": [], "tags": ["casual"], "categories": [], "languages": []}, "matched_games": 36564}
+{"filter": {"genres": [], "tags": ["adventure"], "categories": [], "languages": []}, "matched_games": 35196}
+{"filter": {"genres": [], "tags": ["2d"], "categories": [], "languages": []}, "matched_games": 26792}
+{"filter": {"genres": [], "tags": ["3d"], "categories": [], "languages": []}, "matched_games": 17996}
+{"filter": {"genres": [], "tags": ["simulation"], "categories": [], "languages": []}, "matched_games": 17893}
+{"filter": {"genres": [], "tags": ["strategy"], "categories": [], "languages": []}, "matched_games": 17848}
+{"filter": {"genres": [], "tags": ["puzzle"], "categories": [], "languages": []}, "matched_games": 16368}
+{"filter": {"genres": [], "tags": ["atmospheric"], "categories": [], "languages": []}, "matched_games": 16281}
+{"filter": {"genres": [], "tags": ["rpg"], "categories": [], "languages": []}, "matched_games": 15743}
+{"filter": {"genres": [], "tags": ["colorful"], "categories": [], "languages": []}, "matched_games": 14260}
+{"filter": {"genres": [], "tags": ["pixel graphics"], "categories": [], "languages": []}, "matched_games": 13868}
+{"filter": {"genres": [], "tags": ["story rich"], "categories": [], "languages": []}, "matched_games": 13344}
+{"filter": {"genres": [], "tags": ["exploration"], "categories": [], "languages": []}, "matched_games": 13240}
+{"filter": {"genres": [], "tags": ["cute"], "categories": [], "languages": []}, "matched_games": 12679}
+{"filter": {"genres": [], "tags": ["first-person"], "categories": [], "languages": []}, "matched_games": 12293}
+{"filter": {"genres": [], "tags": ["fantasy"], "categories": [], "languages": []}, "matched_games": 11501}
+{"filter": {"genres": [], "tags": ["arcade"], "categories": [], "languages": []}, "matched_games": 11495}
+{"filter": {"genres": [], "tags": ["early access"], "categories": [], "languages": []}, "matched_games": 10238}
+{"filter": {"genres": [], "tags": ["multiplayer"], "categories": [], "languages": []}, "matched_games": 10144}
+{"filter": {"genres": [], "tags": ["funny"], "categories": [], "languages": []}, "matched_games": 9861}
+{"filter": {"genres": [], "tags": ["horror"], "categories": [], "languages": []}, "matched_games": 9671}
+{"filter": {"genres": [], "tags": ["action-adventure"], "categories": [], "languages": []}, "matched_games": 9607}
+{"filter": {"genres": [], "tags": ["retro"], "categories": [], "languages": []}, "matched_games": 9261}
+{"filter": {"genres": [], "tags": ["shooter"], "categories": [], "languages": []}, "matched_games": 9216}
+{"filter": {"genres": [], "tags": ["relaxing"], "categories": [], "languages": []}, "matched_games": 9121}
+{"filter": {"genres": [], "tags": ["family friendly"], "categories": [], "languages": []}, "matched_games": 8904}
+{"filter": {"genres": [], "tags": ["platformer"], "categories": [], "languages": []}, "matched_games": 8800}
+{"filter": {"genres": [], "tags": ["sci-fi"], "categories": [], "languages": []}, "matched_games": 8460}
+{"filter": {"genres": [], "tags": ["anime"], "categories": [], "languages": []}, "matched_games": 8161}
+{"filter": {"genres": [], "tags": ["combat"], "categories": [], "languages": []}, "matched_games": 7630}
+{"filter": {"genres": [], "tags": ["female protagonist"], "categories": [], "languages": []}, "matched_games": 7579}
+{"filter": {"genres": [], "tags": ["controller"], "categories": [], "languages": []}, "matched_games": 7538}
+{"filter": {"genres": [], "tags": ["top-down"], "categories": [], "languages": []}, "matched_games": 7490}
+{"filter": {"genres": [], "tags": ["stylized"], "categories": [], "languages": []}, "matched_games": 7205}
+{"filter": {"genres": [], "tags": ["third person"], "categories": [], "languages": []}, "matched_games": 7163}
+{"filter": {"genres": [], "tags": ["survival"], "categories": [], "languages": []}, "matched_games": 6536}
+{"filter": {"genres": [], "tags": ["2d platformer"], "categories": [], "languages": []}, "matched_games": 6438}
+{"filter": {"genres": [], "tags": ["difficult"], "categories": [], "languages": []}, "matched_games": 6348}
+{"filter": {"genres": [], "tags": ["mystery"], "categories": [], "languages": []}, "matched_games": 6226}
+{"filter": {"genres": [], "tags": ["linear"], "categories": [], "languages": []}, "matched_games": 6204}
+{"filter": {"genres": [], "tags": ["cartoony"], "categories": [], "languages": []}, "matched_games": 6133}
+{"filter": {"genres": [], "tags": ["psychological horror"], "categories": [], "languages": []}, "matched_games": 6100}
+{"filter": {"genres": [], "tags": ["dark"], "categories": [], "languages": []}, "matched_games": 6057}
+{"filter": {"genres": [], "tags": ["realistic"], "categories": [], "languages": []}, "matched_games": 6048}
+{"filter": {"genres": [], "tags": ["open world"], "categories": [], "languages": []}, "matched_games": 5992}
+{"filter": {"genres": [], "tags": ["comedy"], "categories": [], "languages": []}, "matched_games": 5977}
+{"filter": {"genres": [], "tags": ["visual novel"], "categories": [], "languages": []}, "matched_games": 5823}
+{"filter": {"genres": [], "tags": ["choices matter"], "categories": [], "languages": []}, "matched_games": 5798}
+{"filter": {"genres": [], "tags": ["physics"], "categories": [], "languages": []}, "matched_games": 5751}
+{"filter": {"genres": [], "tags": ["vr"], "categories": [], "languages": []}, "matched_games": 5741}
+{"filter": {"genres": [], "tags": ["minimalist"], "categories": [], "languages": []}, "matched_games": 5618}
+{"filter": {"genres": [], "tags": ["point & click"], "categories": [], "languages": []}, "matched_games": 5448}
+{"filter": {"genres": [], "tags": ["fps"], "categories": [], "languages": []}, "matched_games": 5377}
+{"filter": {"genres": [], "tags": ["multiple endings"], "categories": [], "languages": []}, "matched_games": 5345}
+{"filter": {"genres": [], "tags": ["co-op"], "categories": [], "languages": []}, "matched_games": 5258}
+{"filter": {"genres": [], "tags": ["pve"], "categories": [], "languages": []}, "matched_games": 5176}
+{"filter": {"genres": [], "tags": ["free to play"], "categories": [], "languages": []}, "matched_games": 4982}
+{"filter": {"genres": [], "tags": ["pvp"], "categories": [], "languages": []}, "matched_games": 4958}
+{"filter": {"genres": [], "tags": ["rogue-like"], "categories": [], "languages": []}, "matched_games": 4951}
+{"filter": {"genres": [], "tags": ["violent"], "categories": [], "languages": []}, "matched_games": 4871}
+{"filter": {"genres": [], "tags": ["sandbox"], "categories": [], "languages": []}, "matched_games": 4665}
+{"filter": {"genres": [], "tags": ["rogue-lite"], "categories": [], "languages": []}, "matched_games": 4634}
+{"filter": {"genres": [], "tags": ["hand-drawn"], "categories": [], "languages": []}, "matched_games": 4488}
+{"filter": {"genres": [], "tags": ["side scroller"], "categories": [], "languages": []}, "matched_games": 4423}
+{"filter": {"genres": [], "tags": ["old school"], "categories": [], "languages": []}, "matched_games": 4422}
+{"filter": {"genres": [], "tags": ["hidden object"], "categories": [], "languages": []}, "matched_games": 4406}
+{"filter": {"genres": [], "tags": ["space"], "categories": [], "languages": []}, "matched_games": 4364}
+{"filter": {"genres": [], "tags": ["logic"], "categories": [], "languages": []}, "matched_games": 4288}
+{"filter": {"genres": [], "tags": ["character customization"], "categories": [], "languages": []}, "matched_games": 4246}
+{"filter": {"genres": [], "tags": ["gore"], "categories": [], "languages": []}, "matched_games": 4229}
+{"filter": {"genres": [], "tags": ["great soundtrack"], "categories": [], "languages": []}, "matched_games": 4219}
+{"filter": {"genres": [], "tags": ["management"], "categories": [], "languages": []}, "matched_games": 4174}
+{"filter": {"genres": [], "tags": ["action rpg"], "categories": [], "languages": []}, "matched_games": 4139}
+{"filter": {"genres": [], "tags": ["magic"], "categories": [], "languages": []}, "matched_games": 4104}
+{"filter": {"genres": [], "tags": ["tactical"], "categories": [], "languages": []}, "matched_games": 4083}
+{"filter": {"genres": [], "tags": ["building"], "categories": [], "languages": []}, "matched_games": 4053}
+{"filter": {"genres": [], "tags": ["puzzle-platformer"], "categories": [], "languages": []}, "matched_games": 4019}
+{"filter": {"genres": [], "tags": ["3d platformer"], "categories": [], "languages": []}, "matched_games": 3970}
+{"filter": {"genres": [], "tags": ["sports"], "categories": [], "languages": []}, "matched_games": 3925}
+{"filter": {"genres": [], "tags": ["procedural generation"], "categories": [], "languages": []}, "matched_games": 3721}
+{"filter": {"genres": [], "tags": ["cartoon"], "categories": [], "languages": []}, "matched_games": 3641}
+{"filter": {"genres": [], "tags": ["shoot 'em up"], "categories": [], "languages": []}, "matched_games": 3575}
+{"filter": {"genres": [], "tags": ["bullet hell"], "categories": [], "languages": []}, "matched_games": 3574}
+{"filter": {"genres": [], "tags": ["medieval"], "categories": [], "languages": []}, "matched_games": 3558}
+{"filter": {"genres": [], "tags": ["survival horror"], "categories": [], "languages": []}, "matched_games": 3553}
+{"filter": {"genres": [], "tags": ["turn-based strategy"], "categories": [], "languages": []}, "matched_games": 3546}
+{"filter": {"genres": [], "tags": ["futuristic"], "categories": [], "languages": []}, "matched_games": 3546}
+{"filter": {"genres": [], "tags": ["action roguelike"], "categories": [], "languages": []}, "matched_games": 3500}
+{"filter": {"genres": [], "tags": ["local multiplayer"], "categories": [], "languages": []}, "matched_games": 3476}
+{"filter": {"genres": [], "tags": ["turn-based combat"], "categories": [], "languages": []}, "matched_games": 3354}
+{"filter": {"genres": [], "tags": ["drama"], "categories": [], "languages": []}, "matched_games": 3351}
+{"filter": {"genres": [], "tags": ["walking simulator"], "categories": [], "languages": []}, "matched_games": 3322}
+{"filter": {"genres": [], "tags": ["immersive sim"], "categories": [], "languages": []}, "matched_games": 3320}
+{"filter": {"genres": [], "tags": ["interactive fiction"], "categories": [], "languages": []}, "matched_games": 3307}
+{"filter": {"genres": [], "tags": ["choose your own adventure"], "categories": [], "languages": []}, "matched_games": 3293}
+{"filter": {"genres": [], "tags": ["racing"], "categories": [], "languages": []}, "matched_games": 3264}
+{"filter": {"genres": [], "tags": ["sexual content"], "categories": [], "languages": []}, "matched_games": 3252}
+{"filter": {"genres": [], "tags": ["turn-based tactics"], "categories": [], "languages": []}, "matched_games": 3227}
+{"filter": {"genres": [], "tags": ["online co-op"], "categories": [], "languages": []}, "matched_games": 3203}
+{"filter": {"genres": [], "tags": ["crafting"], "categories": [], "languages": []}, "matched_games": 3193}
+{"filter": {"genres": [], "tags": ["resource management"], "categories": [], "languages": []}, "matched_games": 3138}
+{"filter": {"genres": [], "tags": ["1990's"], "categories": [], "languages": []}, "matched_games": 3125}
+{"filter": {"genres": [], "tags": ["score attack"], "categories": [], "languages": []}, "matched_games": 3052}
+{"filter": {"genres": [], "tags": ["hack and slash"], "categories": [], "languages": []}, "matched_games": 3010}
+{"filter": {"genres": [], "tags": ["dark fantasy"], "categories": [], "languages": []}, "matched_games": 3006}
+{"filter": {"genres": [], "tags": ["emotional"], "categories": [], "languages": []}, "matched_games": 2963}
+{"filter": {"genres": [], "tags": ["surreal"], "categories": [], "languages": []}, "matched_games": 2947}
+{"filter": {"genres": [], "tags": ["nudity"], "categories": [], "languages": []}, "matched_games": 2898}
+{"filter": {"genres": [], "tags": ["nature"], "categories": [], "languages": []}, "matched_games": 2893}
+{"filter": {"genres": [], "tags": ["dungeon crawler"], "categories": [], "languages": []}, "matched_games": 2832}
+{"filter": {"genres": [], "tags": ["zombies"], "categories": [], "languages": []}, "matched_games": 2824}
+{"filter": {"genres": [], "tags": ["jrpg"], "categories": [], "languages": []}, "matched_games": 2698}
+{"filter": {"genres": [], "tags": ["local co-op"], "categories": [], "languages": []}, "matched_games": 2666}
+{"filter": {"genres": [], "tags": ["education"], "categories": [], "languages": []}, "matched_games": 2641}
+{"filter": {"genres": [], "tags": ["top-down shooter"], "categories": [], "languages": []}, "matched_games": 2607}
+{"filter": {"genres": [], "tags": ["war"], "categories": [], "languages": []}, "matched_games": 2587}
+{"filter": {"genres": [], "tags": ["historical"], "categories": [], "languages": []}, "matched_games": 2558}
+{"filter": {"genres": [], "tags": ["post-apocalyptic"], "categories": [], "languages": []}, "matched_games": 2518}
+{"filter": {"genres": [], "tags": ["romance"], "categories": [], "languages": []}, "matched_games": 2517}
+{"filter": {"genres": [], "tags": ["text-based"], "categories": [], "languages": []}, "matched_games": 2511}
+{"filter": {"genres": [], "tags": ["base-building"], "categories": [], "languages": []}, "matched_games": 2477}
+{"filter": {"genres": [], "tags": ["replay value"], "categories": [], "languages": []}, "matched_games": 2376}
+{"filter": {"genres": [], "tags": ["isometric"], "categories": [], "languages": []}, "matched_games": 2357}
+{"filter": {"genres": [], "tags": ["precision platformer"], "categories": [], "languages": []}, "matched_games": 2322}
+{"filter": {"genres": [], "tags": ["clicker"], "categories": [], "languages": []}, "matched_games": 2307}
+{"filter": {"genres": [], "tags": ["stealth"], "categories": [], "languages": []}, "matched_games": 2297}
+{"filter": {"genres": [], "tags": ["investigation"], "categories": [], "languages": []}, "matched_games": 2292}
+{"filter": {"genres": [], "tags": ["1980s"], "categories": [], "languages": []}, "matched_games": 2279}
+{"filter": {"genres": [], "tags": ["card game"], "categories": [], "languages": []}, "matched_games": 2222}
+{"filter": {"genres": [], "tags": ["2.5d"], "categories": [], "languages": []}, "matched_games": 2188}
+{"filter": {"genres": [], "tags": ["abstract"], "categories": [], "languages": []}, "matched_games": 2177}
+{"filter": {"genres": [], "tags": ["detective"], "categories": [], "languages": []}, "matched_games": 2141}
+{"filter": {"genres": [], "tags": ["narration"], "categories": [], "languages": []}, "matched_games": 2085}
+{"filter": {"genres": [], "tags": ["turn-based"], "categories": [], "languages": []}, "matched_games": 2071}
+{"filter": {"genres": [], "tags": ["life sim"], "categories": [], "languages": []}, "matched_games": 2065}
+{"filter": {"genres": [], "tags": ["thriller"], "categories": [], "languages": []}, "matched_games": 2057}
+{"filter": {"genres": [], "tags": ["military"], "categories": [], "languages": []}, "matched_games": 2054}
+{"filter": {"genres": [], "tags": ["cinematic"], "categories": [], "languages": []}, "matched_games": 2042}
+{"filter": {"genres": [], "tags": ["tower defense"], "categories": [], "languages": []}, "matched_games": 2019}
+{"filter": {"genres": [], "tags": ["board game"], "categories": [], "languages": []}, "matched_games": 1982}
+{"filter": {"genres": [], "tags": ["rts"], "categories": [], "languages": []}, "matched_games": 1981}
+{"filter": {"genres": [], "tags": ["psychological"], "categories": [], "languages": []}, "matched_games": 1968}
+{"filter": {"genres": [], "tags": ["third-person shooter"], "categories": [], "languages": []}, "matched_games": 1961}
+{"filter": {"genres": [], "tags": ["time management"], "categories": [], "languages": []}, "matched_games": 1961}
+{"filter": {"genres": [], "tags": ["dating sim"], "categories": [], "languages": []}, "matched_games": 1950}
+{"filter": {"genres": [], "tags": ["aliens"], "categories": [], "languages": []}, "matched_games": 1946}
+{"filter": {"genres": [], "tags": ["dark humor"], "categories": [], "languages": []}, "matched_games": 1914}
+{"filter": {"genres": [], "tags": ["robots"], "categories": [], "languages": []}, "matched_games": 1913}
+{"filter": {"genres": [], "tags": ["economy"], "categories": [], "languages": []}, "matched_games": 1912}
+{"filter": {"genres": [], "tags": ["tabletop"], "categories": [], "languages": []}, "matched_games": 1882}
+{"filter": {"genres": [], "tags": ["demons"], "categories": [], "languages": []}, "matched_games": 1860}
+{"filter": {"genres": [], "tags": ["short"], "categories": [], "languages": []}, "matched_games": 1853}
+{"filter": {"genres": [], "tags": ["fast-paced"], "categories": [], "languages": []}, "matched_games": 1848}
+{"filter": {"genres": [], "tags": ["cyberpunk"], "categories": [], "languages": []}, "matched_games": 1847}
+{"filter": {"genres": [], "tags": ["perma death"], "categories": [], "languages": []}, "matched_games": 1824}
+{"filter": {"genres": [], "tags": ["arena shooter"], "categories": [], "languages": []}, "matched_games": 1756}
+{"filter": {"genres": [], "tags": ["collectathon"], "categories": [], "languages": []}, "matched_games": 1753}
+{"filter": {"genres": [], "tags": ["strategy rpg"], "categories": [], "languages": []}, "matched_games": 1749}
+{"filter": {"genres": [], "tags": ["supernatural"], "categories": [], "languages": []}, "matched_games": 1728}
+{"filter": {"genres": [], "tags": ["real time tactics"], "categories": [], "languages": []}, "matched_games": 1716}
+{"filter": {"genres": [], "tags": ["driving"], "categories": [], "languages": []}, "matched_games": 1696}
+{"filter": {"genres": [], "tags": ["rpgmaker"], "categories": [], "languages": []}, "matched_games": 1691}
+{"filter": {"genres": [], "tags": ["conversation"], "categories": [], "languages": []}, "matched_games": 1691}
+{"filter": {"genres": [], "tags": ["memes"], "categories": [], "languages": []}, "matched_games": 1681}
+{"filter": {"genres": [], "tags": ["city builder"], "categories": [], "languages": []}, "matched_games": 1639}
+{"filter": {"genres": [], "tags": ["runner"], "categories": [], "languages": []}, "matched_games": 1637}
+{"filter": {"genres": [], "tags": ["psychedelic"], "categories": [], "languages": []}, "matched_games": 1607}
+{"filter": {"genres": [], "tags": ["tutorial"], "categories": [], "languages": []}, "matched_games": 1585}
+{"filter": {"genres": [], "tags": ["massively multiplayer"], "categories": [], "languages": []}, "matched_games": 1583}
+{"filter": {"genres": [], "tags": ["lore-rich"], "categories": [], "languages": []}, "matched_games": 1572}
+{"filter": {"genres": [], "tags": ["idler"], "categories": [], "languages": []}, "matched_games": 1568}
+{"filter": {"genres": [], "tags": ["lgbtq+"], "categories": [], "languages": []}, "matched_games": 1558}
+{"filter": {"genres": [], "tags": ["4 player local"], "categories": [], "languages": []}, "matched_games": 1557}
+{"filter": {"genres": [], "tags": ["wargame"], "categories": [], "languages": []}, "matched_games": 1542}
+{"filter": {"genres": [], "tags": ["nonlinear"], "categories": [], "languages": []}, "matched_games": 1540}
+{"filter": {"genres": [], "tags": ["flight"], "categories": [], "languages": []}, "matched_games": 1534}
+{"filter": {"genres": [], "tags": ["mature"], "categories": [], "languages": []}, "matched_games": 1488}
+{"filter": {"genres": [], "tags": ["beat 'em up"], "categories": [], "languages": []}, "matched_games": 1471}
+{"filter": {"genres": [], "tags": ["tactical rpg"], "categories": [], "languages": []}, "matched_games": 1432}
+{"filter": {"genres": [], "tags": ["classic"], "categories": [], "languages": []}, "matched_games": 1398}
+{"filter": {"genres": [], "tags": ["comic book"], "categories": [], "languages": []}, "matched_games": 1395}
+{"filter": {"genres": [], "tags": ["artificial intelligence"], "categories": [], "languages": []}, "matched_games": 1331}
+{"filter": {"genres": [], "tags": ["metroidvania"], "categories": [], "languages": []}, "matched_games": 1330}
+{"filter": {"genres": [], "tags": ["party-based rpg"], "categories": [], "languages": []}, "matched_games": 1316}
+{"filter": {"genres": [], "tags": ["modern"], "categories": [], "languages": []}, "matched_games": 1316}
+{"filter": {"genres": [], "tags": ["grid-based movement"], "categories": [], "languages": []}, "matched_games": 1310}
+{"filter": {"genres": [], "tags": ["parkour"], "categories": [], "languages": []}, "matched_games": 1295}
+{"filter": {"genres": [], "tags": ["loot"], "categories": [], "languages": []}, "matched_games": 1294}
+{"filter": {"genres": [], "tags": ["deckbuilding"], "categories": [], "languages": []}, "matched_games": 1292}
+{"filter": {"genres": [], "tags": ["level editor"], "categories": [], "languages": []}, "matched_games": 1286}
+{"filter": {"genres": [], "tags": ["souls-like"], "categories": [], "languages": []}, "matched_games": 1284}
+{"filter": {"genres": [], "tags": ["cats"], "categories": [], "languages": []}, "matched_games": 1277}
+{"filter": {"genres": [], "tags": ["dystopian"], "categories": [], "languages": []}, "matched_games": 1266}
+{"filter": {"genres": [], "tags": ["inventory management"], "categories": [], "languages": []}, "matched_games": 1208}
+{"filter": {"genres": [], "tags": ["experimental"], "categories": [], "languages": []}, "matched_games": 1202}
+{"filter": {"genres": [], "tags": ["team-based"], "categories": [], "languages": []}, "matched_games": 1200}
+{"filter": {"genres": [], "tags": ["twin stick shooter"], "categories": [], "languages": []}, "matched_games": 1199}
+{"filter": {"genres": [], "tags": ["2d fighter"], "categories": [], "languages": []}, "matched_games": 1186}
+{"filter": {"genres": [], "tags": ["music"], "categories": [], "languages": []}, "matched_games": 1175}
+{"filter": {"genres": [], "tags": ["hentai"], "categories": [], "languages": []}, "matched_games": 1162}
+{"filter": {"genres": [], "tags": ["automobile sim"], "categories": [], "languages": []}, "matched_games": 1147}
+{"filter": {"genres": [], "tags": ["alternate history"], "categories": [], "languages": []}, "matched_games": 1138}
+{"filter": {"genres": [], "tags": ["fighting"], "categories": [], "languages": []}, "matched_games": 1134}
+{"filter": {"genres": [], "tags": ["destruction"], "categories": [], "languages": []}, "matched_games": 1109}
+{"filter": {"genres": [], "tags": ["crpg"], "categories": [], "languages": []}, "matched_games": 1107}
+{"filter": {"genres": [], "tags": ["crime"], "categories": [], "languages": []}, "matched_games": 1083}
+{"filter": {"genres": [], "tags": ["rhythm"], "categories": [], "languages": []}, "matched_games": 1081}
+{"filter": {"genres": [], "tags": ["match 3"], "categories": [], "languages": []}, "matched_games": 1065}
+{"filter": {"genres": [], "tags": ["card battler"], "categories": [], "languages": []}, "matched_games": 1064}
+{"filter": {"genres": [], "tags": ["mythology"], "categories": [], "languages": []}, "matched_games": 1064}
+{"filter": {"genres": [], "tags": ["competitive"], "categories": [], "languages": []}, "matched_games": 1046}
+{"filter": {"genres": [], "tags": ["utilities"], "categories": [], "languages": []}, "matched_games": 1025}
+{"filter": {"genres": [], "tags": ["creature collector"], "categories": [], "languages": []}, "matched_games": 975}
+{"filter": {"genres": [], "tags": ["moddable"], "categories": [], "languages": []}, "matched_games": 959}
+{"filter": {"genres": [], "tags": ["design & illustration"], "categories": [], "languages": []}, "matched_games": 939}
+{"filter": {"genres": [], "tags": ["philosophical"], "categories": [], "languages": []}, "matched_games": 929}
+{"filter": {"genres": [], "tags": ["dark comedy"], "categories": [], "languages": []}, "matched_games": 897}
+{"filter": {"genres": [], "tags": ["soundtrack"], "categories": [], "languages": []}, "matched_games": 890}
+{"filter": {"genres": [], "tags": ["space sim"], "categories": [], "languages": []}, "matched_games": 887}
+{"filter": {"genres": [], "tags": ["grand strategy"], "categories": [], "languages": []}, "matched_games": 880}
+{"filter": {"genres": [], "tags": ["automation"], "categories": [], "languages": []}, "matched_games": 873}
+{"filter": {"genres": [], "tags": ["3d fighter"], "categories": [], "languages": []}, "matched_games": 862}
+{"filter": {"genres": [], "tags": ["farming sim"], "categories": [], "languages": []}, "matched_games": 846}
+{"filter": {"genres": [], "tags": ["capitalism"], "categories": [], "languages": []}, "matched_games": 846}
+{"filter": {"genres": [], "tags": ["word game"], "categories": [], "languages": []}, "matched_games": 843}
+{"filter": {"genres": [], "tags": ["noir"], "categories": [], "languages": []}, "matched_games": 828}
+{"filter": {"genres": [], "tags": ["mystery dungeon"], "categories": [], "languages": []}, "matched_games": 824}
+{"filter": {"genres": [], "tags": ["nsfw"], "categories": [], "languages": []}, "matched_games": 815}
+{"filter": {"genres": [], "tags": ["lovecraftian"], "categories": [], "languages": []}, "matched_games": 815}
+{"filter": {"genres": [], "tags": ["science"], "categories": [], "languages": []}, "matched_games": 813}
+{"filter": {"genres": [], "tags": ["swordplay"], "categories": [], "languages": []}, "matched_games": 781}
+{"filter": {"genres": [], "tags": ["solitaire"], "categories": [], "languages": []}, "matched_games": 772}
+{"filter": {"genres": [], "tags": ["colony sim"], "categories": [], "languages": []}, "matched_games": 759}
+{"filter": {"genres": [], "tags": ["split screen"], "categories": [], "languages": []}, "matched_games": 751}
+{"filter": {"genres": [], "tags": ["world war ii"], "categories": [], "languages": []}, "matched_games": 746}
+{"filter": {"genres": [], "tags": ["cozy"], "categories": [], "languages": []}, "matched_games": 737}
+{"filter": {"genres": [], "tags": ["3d vision"], "categories": [], "languages": []}, "matched_games": 736}
+{"filter": {"genres": [], "tags": ["vehicular combat"], "categories": [], "languages": []}, "matched_games": 720}
+{"filter": {"genres": [], "tags": ["dragons"], "categories": [], "languages": []}, "matched_games": 700}
+{"filter": {"genres": [], "tags": ["6dof"], "categories": [], "languages": []}, "matched_games": 694}
+{"filter": {"genres": [], "tags": ["software"], "categories": [], "languages": []}, "matched_games": 694}
+{"filter": {"genres": [], "tags": ["parody"], "categories": [], "languages": []}, "matched_games": 691}
+{"filter": {"genres": [], "tags": ["e-sports"], "categories": [], "languages": []}, "matched_games": 687}
+{"filter": {"genres": [], "tags": ["sokoban"], "categories": [], "languages": []}, "matched_games": 687}
+{"filter": {"genres": [], "tags": ["america"], "categories": [], "languages": []}, "matched_games": 684}
+{"filter": {"genres": [], "tags": ["auto battler"], "categories": [], "languages": []}, "matched_games": 683}
+{"filter": {"genres": [], "tags": ["bullet time"], "categories": [], "languages": []}, "matched_games": 683}
+{"filter": {"genres": [], "tags": ["spectacle fighter"], "categories": [], "languages": []}, "matched_games": 678}
+{"filter": {"genres": [], "tags": ["class-based"], "categories": [], "languages": []}, "matched_games": 673}
+{"filter": {"genres": [], "tags": ["beautiful"], "categories": [], "languages": []}, "matched_games": 668}
+{"filter": {"genres": [], "tags": ["cooking"], "categories": [], "languages": []}, "matched_games": 660}
+{"filter": {"genres": [], "tags": ["agriculture"], "categories": [], "languages": []}, "matched_games": 657}
+{"filter": {"genres": [], "tags": ["hero shooter"], "categories": [], "languages": []}, "matched_games": 646}
+{"filter": {"genres": [], "tags": ["combat racing"], "categories": [], "languages": []}, "matched_games": 635}
+{"filter": {"genres": [], "tags": ["gun customization"], "categories": [], "languages": []}, "matched_games": 632}
+{"filter": {"genres": [], "tags": ["voxel"], "categories": [], "languages": []}, "matched_games": 630}
+{"filter": {"genres": [], "tags": ["time manipulation"], "categories": [], "languages": []}, "matched_games": 620}
+{"filter": {"genres": [], "tags": ["mechs"], "categories": [], "languages": []}, "matched_games": 609}
+{"filter": {"genres": [], "tags": ["god game"], "categories": [], "languages": []}, "matched_games": 606}
+{"filter": {"genres": [], "tags": ["conspiracy"], "categories": [], "languages": []}, "matched_games": 606}
+{"filter": {"genres": [], "tags": ["mouse only"], "categories": [], "languages": []}, "matched_games": 599}
+{"filter": {"genres": [], "tags": ["martial arts"], "categories": [], "languages": []}, "matched_games": 597}
+{"filter": {"genres": [], "tags": ["character action game"], "categories": [], "languages": []}, "matched_games": 588}
+{"filter": {"genres": [], "tags": ["quick-time events"], "categories": [], "languages": []}, "matched_games": 574}
+{"filter": {"genres": [], "tags": ["underground"], "categories": [], "languages": []}, "matched_games": 574}
+{"filter": {"genres": [], "tags": ["trading"], "categories": [], "languages": []}, "matched_games": 572}
+{"filter": {"genres": [], "tags": ["gothic"], "categories": [], "languages": []}, "matched_games": 564}
+{"filter": {"genres": [], "tags": ["open world survival craft"], "categories": [], "languages": []}, "matched_games": 562}
+{"filter": {"genres": [], "tags": ["wholesome"], "categories": [], "languages": []}, "matched_games": 557}
+{"filter": {"genres": [], "tags": ["battle royale"], "categories": [], "languages": []}, "matched_games": 557}
+{"filter": {"genres": [], "tags": ["hex grid"], "categories": [], "languages": []}, "matched_games": 549}
+{"filter": {"genres": [], "tags": ["fmv"], "categories": [], "languages": []}, "matched_games": 546}
+{"filter": {"genres": [], "tags": ["satire"], "categories": [], "languages": []}, "matched_games": 545}
+{"filter": {"genres": [], "tags": ["dog"], "categories": [], "languages": []}, "matched_games": 544}
+{"filter": {"genres": [], "tags": ["looter shooter"], "categories": [], "languages": []}, "matched_games": 529}
+{"filter": {"genres": [], "tags": ["co-op campaign"], "categories": [], "languages": []}, "matched_games": 528}
+{"filter": {"genres": [], "tags": ["political"], "categories": [], "languages": []}, "matched_games": 526}
+{"filter": {"genres": [], "tags": ["blood"], "categories": [], "languages": []}, "matched_games": 523}
+{"filter": {"genres": [], "tags": ["ninja"], "categories": [], "languages": []}, "matched_games": 521}
+{"filter": {"genres": [], "tags": ["animation & modeling"], "categories": [], "languages": []}, "matched_games": 520}
+{"filter": {"genres": [], "tags": ["pirates"], "categories": [], "languages": []}, "matched_games": 518}
+{"filter": {"genres": [], "tags": ["steampunk"], "categories": [], "languages": []}, "matched_games": 516}
+{"filter": {"genres": [], "tags": ["mining"], "categories": [], "languages": []}, "matched_games": 497}
+{"filter": {"genres": [], "tags": ["game development"], "categories": [], "languages": []}, "matched_games": 495}
+{"filter": {"genres": [], "tags": ["underwater"], "categories": [], "languages": []}, "matched_games": 491}
+{"filter": {"genres": [], "tags": ["tanks"], "categories": [], "languages": []}, "matched_games": 486}
+{"filter": {"genres": [], "tags": ["time travel"], "categories": [], "languages": []}, "matched_games": 481}
+{"filter": {"genres": [], "tags": ["action rts"], "categories": [], "languages": []}, "matched_games": 477}
+{"filter": {"genres": [], "tags": ["programming"], "categories": [], "languages": []}, "matched_games": 466}
+{"filter": {"genres": [], "tags": ["dynamic narration"], "categories": [], "languages": []}, "matched_games": 465}
+{"filter": {"genres": [], "tags": ["escape room"], "categories": [], "languages": []}, "matched_games": 454}
+{"filter": {"genres": [], "tags": ["mmorpg"], "categories": [], "languages": []}, "matched_games": 454}
+{"filter": {"genres": [], "tags": ["hunting"], "categories": [], "languages": []}, "matched_games": 443}
+{"filter": {"genres": [], "tags": ["fishing"], "categories": [], "languages": []}, "matched_games": 443}
+{"filter": {"genres": [], "tags": ["otome"], "categories": [], "languages": []}, "matched_games": 442}
+{"filter": {"genres": [], "tags": ["4x"], "categories": [], "languages": []}, "matched_games": 440}
+{"filter": {"genres": [], "tags": ["remake"], "categories": [], "languages": []}, "matched_games": 438}
+{"filter": {"genres": [], "tags": ["vampire"], "categories": [], "languages": []}, "matched_games": 437}
+{"filter": {"genres": [], "tags": ["narrative"], "categories": [], "languages": []}, "matched_games": 437}
+{"filter": {"genres": [], "tags": ["roguelike deckbuilder"], "categories": [], "languages": []}, "matched_games": 434}
+{"filter": {"genres": [], "tags": ["real-time"], "categories": [], "languages": []}, "matched_games": 428}
+{"filter": {"genres": [], "tags": ["faith"], "categories": [], "languages": []}, "matched_games": 425}
+{"filter": {"genres": [], "tags": ["party game"], "categories": [], "languages": []}, "matched_games": 425}
+{"filter": {"genres": [], "tags": ["hacking"], "categories": [], "languages": []}, "matched_games": 420}
+{"filter": {"genres": [], "tags": ["addictive"], "categories": [], "languages": []}, "matched_games": 410}
+{"filter": {"genres": [], "tags": ["transportation"], "categories": [], "languages": []}, "matched_games": 409}
+{"filter": {"genres": [], "tags": ["political sim"], "categories": [], "languages": []}, "matched_games": 405}
+{"filter": {"genres": [], "tags": ["dinosaurs"], "categories": [], "languages": []}, "matched_games": 405}
+{"filter": {"genres": [], "tags": ["typing"], "categories": [], "languages": []}, "matched_games": 404}
+{"filter": {"genres": [], "tags": ["immersive"], "categories": [], "languages": []}, "matched_games": 403}
+{"filter": {"genres": [], "tags": ["politics"], "categories": [], "languages": []}, "matched_games": 387}
+{"filter": {"genres": [], "tags": ["minigames"], "categories": [], "languages": []}, "matched_games": 381}
+{"filter": {"genres": [], "tags": ["boomer shooter"], "categories": [], "languages": []}, "matched_games": 378}
+{"filter": {"genres": [], "tags": ["western"], "categories": [], "languages": []}, "matched_games": 377}
+{"filter": {"genres": [], "tags": ["trading card game"], "categories": [], "languages": []}, "matched_games": 374}
+{"filter": {"genres": [], "tags": ["assassin"], "categories": [], "languages": []}, "matched_games": 363}
+{"filter": {"genres": [], "tags": ["naval"], "categories": [], "languages": []}, "matched_games": 360}
+{"filter": {"genres": [], "tags": ["party"], "categories": [], "languages": []}, "matched_games": 353}
+{"filter": {"genres": [], "tags": ["time attack"], "categories": [], "languages": []}, "matched_games": 350}
+{"filter": {"genres": [], "tags": ["superhero"], "categories": [], "languages": []}, "matched_games": 345}
+{"filter": {"genres": [], "tags": ["asynchronous multiplayer"], "categories": [], "languages": []}, "matched_games": 345}
+{"filter": {"genres": [], "tags": ["snow"], "categories": [], "languages": []}, "matched_games": 338}
+{"filter": {"genres": [], "tags": ["video production"], "categories": [], "languages": []}, "matched_games": 336}
+{"filter": {"genres": [], "tags": ["trivia"], "categories": [], "languages": []}, "matched_games": 330}
+{"filter": {"genres": [], "tags": ["trains"], "categories": [], "languages": []}, "matched_games": 321}
+{"filter": {"genres": [], "tags": ["real-time with pause"], "categories": [], "languages": []}, "matched_games": 316}
+{"filter": {"genres": [], "tags": ["diplomacy"], "categories": [], "languages": []}, "matched_games": 313}
+{"filter": {"genres": [], "tags": ["on-rails shooter"], "categories": [], "languages": []}, "matched_games": 310}
+{"filter": {"genres": [], "tags": ["cult classic"], "categories": [], "languages": []}, "matched_games": 307}
+{"filter": {"genres": [], "tags": ["cold war"], "categories": [], "languages": []}, "matched_games": 296}
+{"filter": {"genres": [], "tags": ["archery"], "categories": [], "languages": []}, "matched_games": 294}
+{"filter": {"genres": [], "tags": ["moba"], "categories": [], "languages": []}, "matched_games": 291}
+{"filter": {"genres": [], "tags": ["gambling"], "categories": [], "languages": []}, "matched_games": 290}
+{"filter": {"genres": [], "tags": ["football (soccer)"], "categories": [], "languages": []}, "matched_games": 290}
+{"filter": {"genres": [], "tags": ["illuminati"], "categories": [], "languages": []}, "matched_games": 287}
+{"filter": {"genres": [], "tags": ["sailing"], "categories": [], "languages": []}, "matched_games": 271}
+{"filter": {"genres": [], "tags": ["heist"], "categories": [], "languages": []}, "matched_games": 269}
+{"filter": {"genres": [], "tags": ["touch-friendly"], "categories": [], "languages": []}, "matched_games": 266}
+{"filter": {"genres": [], "tags": ["naval combat"], "categories": [], "languages": []}, "matched_games": 257}
+{"filter": {"genres": [], "tags": ["audio production"], "categories": [], "languages": []}, "matched_games": 246}
+{"filter": {"genres": [], "tags": ["offroad"], "categories": [], "languages": []}, "matched_games": 243}
+{"filter": {"genres": [], "tags": ["nostalgia"], "categories": [], "languages": []}, "matched_games": 241}
+{"filter": {"genres": [], "tags": ["music-based procedural generation"], "categories": [], "languages": []}, "matched_games": 237}
+{"filter": {"genres": [], "tags": ["foreign"], "categories": [], "languages": []}, "matched_games": 236}
+{"filter": {"genres": [], "tags": ["villain protagonist"], "categories": [], "languages": []}, "matched_games": 232}
+{"filter": {"genres": [], "tags": ["traditional roguelike"], "categories": [], "languages": []}, "matched_games": 231}
+{"filter": {"genres": [], "tags": ["spelling"], "categories": [], "languages": []}, "matched_games": 224}
+{"filter": {"genres": [], "tags": ["mars"], "categories": [], "languages": []}, "matched_games": 221}
+{"filter": {"genres": [], "tags": ["horses"], "categories": [], "languages": []}, "matched_games": 220}
+{"filter": {"genres": [], "tags": ["sniper"], "categories": [], "languages": []}, "matched_games": 219}
+{"filter": {"genres": [], "tags": ["software training"], "categories": [], "languages": []}, "matched_games": 218}
+{"filter": {"genres": [], "tags": ["sequel"], "categories": [], "languages": []}, "matched_games": 215}
+{"filter": {"genres": [], "tags": ["experience"], "categories": [], "languages": []}, "matched_games": 212}
+{"filter": {"genres": [], "tags": ["chess"], "categories": [], "languages": []}, "matched_games": 210}
+{"filter": {"genres": [], "tags": ["boxing"], "categories": [], "languages": []}, "matched_games": 205}
+{"filter": {"genres": [], "tags": ["farming"], "categories": [], "languages": []}, "matched_games": 205}
+{"filter": {"genres": [], "tags": ["golf"], "categories": [], "languages": []}, "matched_games": 198}
+{"filter": {"genres": [], "tags": ["jet"], "categories": [], "languages": []}, "matched_games": 194}
+{"filter": {"genres": [], "tags": ["unforgiving"], "categories": [], "languages": []}, "matched_games": 193}
+{"filter": {"genres": [], "tags": ["photo editing"], "categories": [], "languages": []}, "matched_games": 188}
+{"filter": {"genres": [], "tags": ["outbreak sim"], "categories": [], "languages": []}, "matched_games": 181}
+{"filter": {"genres": [], "tags": ["kickstarter"], "categories": [], "languages": []}, "matched_games": 181}
+{"filter": {"genres": [], "tags": ["world war i"], "categories": [], "languages": []}, "matched_games": 177}
+{"filter": {"genres": [], "tags": ["episodic"], "categories": [], "languages": []}, "matched_games": 175}
+{"filter": {"genres": [], "tags": ["gamemaker"], "categories": [], "languages": []}, "matched_games": 173}
+{"filter": {"genres": [], "tags": ["werewolves"], "categories": [], "languages": []}, "matched_games": 172}
+{"filter": {"genres": [], "tags": ["motorbike"], "categories": [], "languages": []}, "matched_games": 170}
+{"filter": {"genres": [], "tags": ["transhumanism"], "categories": [], "languages": []}, "matched_games": 170}
+{"filter": {"genres": [], "tags": ["bikes"], "categories": [], "languages": []}, "matched_games": 165}
+{"filter": {"genres": [], "tags": ["rome"], "categories": [], "languages": []}, "matched_games": 165}
+{"filter": {"genres": [], "tags": ["spaceships"], "categories": [], "languages": []}, "matched_games": 161}
+{"filter": {"genres": [], "tags": ["roguevania"], "categories": [], "languages": []}, "matched_games": 161}
+{"filter": {"genres": [], "tags": ["pinball"], "categories": [], "languages": []}, "matched_games": 153}
+{"filter": {"genres": [], "tags": ["submarine"], "categories": [], "languages": []}, "matched_games": 151}
+{"filter": {"genres": [], "tags": ["basketball"], "categories": [], "languages": []}, "matched_games": 145}
+{"filter": {"genres": [], "tags": ["medical sim"], "categories": [], "languages": []}, "matched_games": 144}
+{"filter": {"genres": [], "tags": ["asymmetric vr"], "categories": [], "languages": []}, "matched_games": 137}
+{"filter": {"genres": [], "tags": ["lego"], "categories": [], "languages": []}, "matched_games": 131}
+{"filter": {"genres": [], "tags": ["dwarf"], "categories": [], "languages": []}, "matched_games": 131}
+{"filter": {"genres": [], "tags": ["football (american)"], "categories": [], "languages": []}, "matched_games": 126}
+{"filter": {"genres": [], "tags": ["job simulator"], "categories": [], "languages": []}, "matched_games": 124}
+{"filter": {"genres": [], "tags": ["web publishing"], "categories": [], "languages": []}, "matched_games": 122}
+{"filter": {"genres": [], "tags": ["mini golf"], "categories": [], "languages": []}, "matched_games": 120}
+{"filter": {"genres": [], "tags": ["silent protagonist"], "categories": [], "languages": []}, "matched_games": 120}
+{"filter": {"genres": [], "tags": ["social deduction"], "categories": [], "languages": []}, "matched_games": 119}
+{"filter": {"genres": [], "tags": ["electronic music"], "categories": [], "languages": []}, "matched_games": 118}
+{"filter": {"genres": [], "tags": ["epic"], "categories": [], "languages": []}, "matched_games": 118}
+{"filter": {"genres": [], "tags": ["movie"], "categories": [], "languages": []}, "matched_games": 112}
+{"filter": {"genres": [], "tags": ["ambient"], "categories": [], "languages": []}, "matched_games": 111}
+{"filter": {"genres": [], "tags": ["jump scare"], "categories": [], "languages": []}, "matched_games": 111}
+{"filter": {"genres": [], "tags": ["360 video"], "categories": [], "languages": []}, "matched_games": 102}
+{"filter": {"genres": [], "tags": ["crowdfunded"], "categories": [], "languages": []}, "matched_games": 101}
+{"filter": {"genres": [], "tags": ["tennis"], "categories": [], "languages": []}, "matched_games": 100}
+{"filter": {"genres": [], "tags": ["vikings"], "categories": [], "languages": []}, "matched_games": 97}
+{"filter": {"genres": [], "tags": ["intentionally awkward controls"], "categories": [], "languages": []}, "matched_games": 95}
+{"filter": {"genres": [], "tags": ["pool"], "categories": [], "languages": []}, "matched_games": 94}
+{"filter": {"genres": [], "tags": ["wrestling"], "categories": [], "languages": []}, "matched_games": 93}
+{"filter": {"genres": [], "tags": ["gaming"], "categories": [], "languages": []}, "matched_games": 91}
+{"filter": {"genres": [], "tags": ["dungeons & dragons"], "categories": [], "languages": []}, "matched_games": 91}
+{"filter": {"genres": [], "tags": ["baseball"], "categories": [], "languages": []}, "matched_games": 89}
+{"filter": {"genres": [], "tags": ["mahjong"], "categories": [], "languages": []}, "matched_games": 87}
+{"filter": {"genres": [], "tags": ["games workshop"], "categories": [], "languages": []}, "matched_games": 87}
+{"filter": {"genres": [], "tags": ["cycling"], "categories": [], "languages": []}, "matched_games": 84}
+{"filter": {"genres": [], "tags": ["instrumental music"], "categories": [], "languages": []}, "matched_games": 80}
+{"filter": {"genres": [], "tags": ["boss rush"], "categories": [], "languages": []}, "matched_games": 80}
+{"filter": {"genres": [], "tags": ["skateboarding"], "categories": [], "languages": []}, "matched_games": 79}
+{"filter": {"genres": [], "tags": ["motocross"], "categories": [], "languages": []}, "matched_games": 79}
+{"filter": {"genres": [], "tags": ["mod"], "categories": [], "languages": []}, "matched_games": 78}
+{"filter": {"genres": [], "tags": ["lemmings"], "categories": [], "languages": []}, "matched_games": 76}
+{"filter": {"genres": [], "tags": ["hockey"], "categories": [], "languages": []}, "matched_games": 75}
+{"filter": {"genres": [], "tags": ["based on a novel"], "categories": [], "languages": []}, "matched_games": 74}
+{"filter": {"genres": [], "tags": ["skating"], "categories": [], "languages": []}, "matched_games": 72}
+{"filter": {"genres": [], "tags": ["bowling"], "categories": [], "languages": []}, "matched_games": 64}
+{"filter": {"genres": [], "tags": ["warhammer 40k"], "categories": [], "languages": []}, "matched_games": 55}
+{"filter": {"genres": [], "tags": ["well-written"], "categories": [], "languages": []}, "matched_games": 54}
+{"filter": {"genres": [], "tags": ["bmx"], "categories": [], "languages": []}, "matched_games": 53}
+{"filter": {"genres": [], "tags": ["skiing"], "categories": [], "languages": []}, "matched_games": 52}
+{"filter": {"genres": [], "tags": ["8-bit music"], "categories": [], "languages": []}, "matched_games": 52}
+{"filter": {"genres": [], "tags": ["shop keeper"], "categories": [], "languages": []}, "matched_games": 46}
+{"filter": {"genres": [], "tags": ["rock music"], "categories": [], "languages": []}, "matched_games": 46}
+{"filter": {"genres": [], "tags": ["snowboarding"], "categories": [], "languages": []}, "matched_games": 44}
+{"filter": {"genres": [], "tags": ["electronic"], "categories": [], "languages": []}, "matched_games": 43}
+{"filter": {"genres": [], "tags": ["voice control"], "categories": [], "languages": []}, "matched_games": 42}
+{"filter": {"genres": [], "tags": ["dice"], "categories": [], "languages": []}, "matched_games": 40}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 107923}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": []}, "matched_games": 95833}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements"], "languages": []}, "matched_games": 55708}
+{"filter": {"genres": [], "tags": [], "categories": ["steam cloud"], "languages": []}, "matched_games": 30340}
+{"filter": {"genres": [], "tags": [], "categories": ["full controller support"], "languages": []}, "matched_games": 25459}
+{"filter": {"genres": [], "tags": [], "categories": ["multi-player"], "languages": []}, "matched_games": 20284}
+{"filter": {"genres": [], "tags": [], "categories": ["partial controller support"], "languages": []}, "matched_games": 13686}
+{"filter": {"genres": [], "tags": [], "categories": ["pvp"], "languages": []}, "matched_games": 12588}
+{"filter": {"genres": [], "tags": [], "categories": ["steam trading cards"], "languages": []}, "matched_games": 11377}
+{"filter": {"genres": [], "tags": [], "categories": ["co-op"], "languages": []}, "matched_games": 11014}
+{"filter": {"genres": [], "tags": [], "categories": ["steam leaderboards"], "languages": []}, "matched_games": 9233}
+{"filter": {"genres": [], "tags": [], "categories": ["online pvp"], "languages": []}, "matched_games": 8912}
+{"filter": {"genres": [], "tags": [], "categories": ["remote play together"], "languages": []}, "matched_games": 7762}
+{"filter": {"genres": [], "tags": [], "categories": ["shared/split screen"], "languages": []}, "matched_games": 7432}
+{"filter": {"genres": [], "tags": [], "categories": ["online co-op"], "languages": []}, "matched_games": 6776}
+{"filter": {"genres": [], "tags": [], "categories": ["custom volume controls"], "languages": []}, "matched_games": 6494}
+{"filter": {"genres": [], "tags": [], "categories": ["playable without timed input"], "languages": []}, "matched_games": 6422}
+{"filter": {"genres": [], "tags": [], "categories": ["vr only"], "languages": []}, "matched_games": 5785}
+{"filter": {"genres": [], "tags": [], "categories": ["tracked controller support"], "languages": []}, "matched_games": 5622}
+{"filter": {"genres": [], "tags": [], "categories": ["shared/split screen pvp"], "languages": []}, "matched_games": 5115}
+{"filter": {"genres": [], "tags": [], "categories": ["stats"], "languages": []}, "matched_games": 5094}
+{"filter": {"genres": [], "tags": [], "categories": ["shared/split screen co-op"], "languages": []}, "matched_games": 4307}
+{"filter": {"genres": [], "tags": [], "categories": ["stereo sound"], "languages": []}, "matched_games": 3945}
+{"filter": {"genres": [], "tags": [], "categories": ["save anytime"], "languages": []}, "matched_games": 3642}
+{"filter": {"genres": [], "tags": [], "categories": ["mouse only option"], "languages": []}, "matched_games": 3176}
+{"filter": {"genres": [], "tags": [], "categories": ["cross-platform multiplayer"], "languages": []}, "matched_games": 3027}
+{"filter": {"genres": [], "tags": [], "categories": ["in-app purchases"], "languages": []}, "matched_games": 2995}
+{"filter": {"genres": [], "tags": [], "categories": ["camera comfort"], "languages": []}, "matched_games": 2818}
+{"filter": {"genres": [], "tags": [], "categories": ["steam workshop"], "languages": []}, "matched_games": 2636}
+{"filter": {"genres": [], "tags": [], "categories": ["remote play on tv"], "languages": []}, "matched_games": 2589}
+{"filter": {"genres": [], "tags": [], "categories": ["includes level editor"], "languages": []}, "matched_games": 2580}
+{"filter": {"genres": [], "tags": [], "categories": ["adjustable difficulty"], "languages": []}, "matched_games": 2525}
+{"filter": {"genres": [], "tags": [], "categories": ["keyboard only option"], "languages": []}, "matched_games": 2364}
+{"filter": {"genres": [], "tags": [], "categories": ["captions available"], "languages": []}, "matched_games": 1583}
+{"filter": {"genres": [], "tags": [], "categories": ["color alternatives"], "languages": []}, "matched_games": 1520}
+{"filter": {"genres": [], "tags": [], "categories": ["mmo"], "languages": []}, "matched_games": 1337}
+{"filter": {"genres": [], "tags": [], "categories": ["vr supported"], "languages": []}, "matched_games": 1195}
+{"filter": {"genres": [], "tags": [], "categories": ["remote play on tablet"], "languages": []}, "matched_games": 1105}
+{"filter": {"genres": [], "tags": [], "categories": ["lan pvp"], "languages": []}, "matched_games": 1056}
+{"filter": {"genres": [], "tags": [], "categories": ["lan co-op"], "languages": []}, "matched_games": 1028}
+{"filter": {"genres": [], "tags": [], "categories": ["surround sound"], "languages": []}, "matched_games": 1018}
+{"filter": {"genres": [], "tags": [], "categories": ["remote play on phone"], "languages": []}, "matched_games": 953}
+{"filter": {"genres": [], "tags": [], "categories": ["touch only option"], "languages": []}, "matched_games": 878}
+{"filter": {"genres": [], "tags": [], "categories": ["adjustable text size"], "languages": []}, "matched_games": 772}
+{"filter": {"genres": [], "tags": [], "categories": ["subtitle options"], "languages": []}, "matched_games": 745}
+{"filter": {"genres": [], "tags": [], "categories": ["hdr available"], "languages": []}, "matched_games": 395}
+{"filter": {"genres": [], "tags": [], "categories": ["commentary available"], "languages": []}, "matched_games": 294}
+{"filter": {"genres": [], "tags": [], "categories": ["vr support"], "languages": []}, "matched_games": 233}
+{"filter": {"genres": [], "tags": [], "categories": ["narrated game menus"], "languages": []}, "matched_games": 224}
+{"filter": {"genres": [], "tags": [], "categories": ["valve anti-cheat enabled"], "languages": []}, "matched_games": 115}
+{"filter": {"genres": [], "tags": [], "categories": ["steam timeline"], "languages": []}, "matched_games": 104}
+{"filter": {"genres": [], "tags": [], "categories": ["steam turn notifications"], "languages": []}, "matched_games": 98}
+{"filter": {"genres": [], "tags": [], "categories": ["includes source sdk"], "languages": []}, "matched_games": 59}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["english"]}, "matched_games": 109080}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 33599}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["german"]}, "matched_games": 29711}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["french"]}, "matched_games": 29519}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["japanese"]}, "matched_games": 29119}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["spanish - spain"]}, "matched_games": 27590}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["russian"]}, "matched_games": 27525}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["italian"]}, "matched_games": 20522}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["korean"]}, "matched_games": 19460}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["portuguese - brazil"]}, "matched_games": 17733}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["traditional chinese"]}, "matched_games": 17652}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["polish"]}, "matched_games": 13440}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["portuguese - portugal"]}, "matched_games": 11046}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["turkish"]}, "matched_games": 10994}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["spanish - latin america"]}, "matched_games": 9698}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["dutch"]}, "matched_games": 8032}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["ukrainian"]}, "matched_games": 7241}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["czech"]}, "matched_games": 6635}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["swedish"]}, "matched_games": 6218}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["thai"]}, "matched_games": 6036}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["hungarian"]}, "matched_games": 5728}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["arabic"]}, "matched_games": 5708}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["danish"]}, "matched_games": 5540}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["norwegian"]}, "matched_games": 5427}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["finnish"]}, "matched_games": 5419}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["vietnamese"]}, "matched_games": 5119}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["romanian"]}, "matched_games": 5056}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["greek"]}, "matched_games": 4982}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["bulgarian"]}, "matched_games": 4687}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["indonesian"]}, "matched_games": 4000}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["hindi"]}, "matched_games": 2433}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["catalan"]}, "matched_games": 2311}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["malay"]}, "matched_games": 2188}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["slovak"]}, "matched_games": 2188}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["hebrew"]}, "matched_games": 2117}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["serbian"]}, "matched_games": 2108}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["croatian"]}, "matched_games": 2102}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["lithuanian"]}, "matched_games": 2070}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["filipino"]}, "matched_games": 2069}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["persian"]}, "matched_games": 2065}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["belarusian"]}, "matched_games": 2061}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["latvian"]}, "matched_games": 2058}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["basque"]}, "matched_games": 2055}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["estonian"]}, "matched_games": 2049}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["slovenian"]}, "matched_games": 2031}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["icelandic"]}, "matched_games": 2026}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["afrikaans"]}, "matched_games": 2024}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["galician"]}, "matched_games": 2020}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["bangla"]}, "matched_games": 2013}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["georgian"]}, "matched_games": 2005}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["kazakh"]}, "matched_games": 2004}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["welsh"]}, "matched_games": 2004}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["azerbaijani"]}, "matched_games": 2003}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["albanian"]}, "matched_games": 1998}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["irish"]}, "matched_games": 1997}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["urdu"]}, "matched_games": 1995}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["uzbek"]}, "matched_games": 1995}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["swahili"]}, "matched_games": 1992}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["bosnian"]}, "matched_games": 1991}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["luxembourgish"]}, "matched_games": 1983}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["macedonian"]}, "matched_games": 1976}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["mongolian"]}, "matched_games": 1974}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["gujarati"]}, "matched_games": 1973}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["punjabi (gurmukhi)"]}, "matched_games": 1973}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["zulu"]}, "matched_games": 1973}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["armenian"]}, "matched_games": 1972}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["tamil"]}, "matched_games": 1972}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["nepali"]}, "matched_games": 1969}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["maori"]}, "matched_games": 1968}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["igbo"]}, "matched_games": 1967}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["xhosa"]}, "matched_games": 1966}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["malayalam"]}, "matched_games": 1965}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["telugu"]}, "matched_games": 1965}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["kannada"]}, "matched_games": 1964}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["marathi"]}, "matched_games": 1964}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["hausa"]}, "matched_games": 1963}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["sinhala"]}, "matched_games": 1960}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["tajik"]}, "matched_games": 1960}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["yoruba"]}, "matched_games": 1960}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["kyrgyz"]}, "matched_games": 1958}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["scots"]}, "matched_games": 1957}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["sotho"]}, "matched_games": 1956}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["tatar"]}, "matched_games": 1953}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["maltese"]}, "matched_games": 1952}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["sindhi"]}, "matched_games": 1952}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["turkmen"]}, "matched_games": 1951}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["kinyarwanda"]}, "matched_games": 1950}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["uyghur"]}, "matched_games": 1950}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["amharic"]}, "matched_games": 1947}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["odia"]}, "matched_games": 1947}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["punjabi (shahmukhi)"]}, "matched_games": 1947}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["khmer"]}, "matched_games": 1944}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["assamese"]}, "matched_games": 1943}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["konkani"]}, "matched_games": 1942}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["quechua"]}, "matched_games": 1941}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["sorani"]}, "matched_games": 1938}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["tigrinya"]}, "matched_games": 1936}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["dari"]}, "matched_games": 1934}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["tswana"]}, "matched_games": 1933}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["cherokee"]}, "matched_games": 1932}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["k'iche'"]}, "matched_games": 1931}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["valencian"]}, "matched_games": 1931}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["wolof"]}, "matched_games": 1930}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": ["single-player"], "languages": ["italian", "tigrinya"]}, "matched_games": 4115}
+{"filter": {"genres": ["adventure"], "tags": ["zombies"], "categories": [], "languages": []}, "matched_games": 1388}
+{"filter": {"genres": ["casual", "free to play"], "tags": [], "categories": [], "languages": ["portuguese - brazil", "russian"]}, "matched_games": 15836}
+{"filter": {"genres": ["strategy"], "tags": ["rpgmaker"], "categories": [], "languages": []}, "matched_games": 224}
+{"filter": {"genres": ["indie"], "tags": ["demons"], "categories": [], "languages": ["turkish"]}, "matched_games": 160}
+{"filter": {"genres": [], "tags": ["story rich"], "categories": ["single-player"], "languages": []}, "matched_games": 13240}
+{"filter": {"genres": [], "tags": ["action"], "categories": [], "languages": ["russian"]}, "matched_games": 9131}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["family sharing", "single-player"], "languages": []}, "matched_games": 44895}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["german", "turkish"]}, "matched_games": 30545}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["steam leaderboards"], "languages": []}, "matched_games": 5586}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "shared/split screen"], "languages": ["quechua"]}, "matched_games": 1745}
+{"filter": {"genres": ["action", "casual"], "tags": ["adventure"], "categories": ["mouse only option"], "languages": ["danish"]}, "matched_games": 60}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["multi-player"], "languages": ["hindi"]}, "matched_games": 93}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 43334}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "full controller support", "single-player"], "languages": []}, "matched_games": 110780}
+{"filter": {"genres": ["indie", "strategy"], "tags": [], "categories": [], "languages": []}, "matched_games": 87042}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["multi-player", "surround sound"], "languages": ["english"]}, "matched_games": 13434}
+{"filter": {"genres": ["adventure", "casual"], "tags": [], "categories": ["online co-op", "playable without timed input"], "languages": []}, "matched_games": 8398}
+{"filter": {"genres": ["adventure", "rpg"], "tags": [], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 17699}
+{"filter": {"genres": [], "tags": ["fantasy"], "categories": [], "languages": ["georgian"]}, "matched_games": 43}
+{"filter": {"genres": ["free to play"], "tags": ["horror", "puzzle", "strategy"], "categories": [], "languages": ["german"]}, "matched_games": 470}
+{"filter": {"genres": ["action", "indie"], "tags": [], "categories": [], "languages": ["sinhala"]}, "matched_games": 1658}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["mongolian", "tswana"]}, "matched_games": 1975}
+{"filter": {"genres": ["action"], "tags": ["dark"], "categories": [], "languages": []}, "matched_games": 2874}
+{"filter": {"genres": ["massively multiplayer"], "tags": [], "categories": ["shared/split screen"], "languages": []}, "matched_games": 96}
+{"filter": {"genres": [], "tags": [], "categories": ["mouse only option", "single-player"], "languages": []}, "matched_games": 108008}
+{"filter": {"genres": [], "tags": ["arcade", "hunting"], "categories": ["family sharing"], "languages": ["english"]}, "matched_games": 10932}
+{"filter": {"genres": ["adventure", "simulation"], "tags": [], "categories": ["vr only"], "languages": []}, "matched_games": 3173}
+{"filter": {"genres": ["casual", "rpg"], "tags": ["sci-fi", "zombies"], "categories": ["full controller support"], "languages": ["russian"]}, "matched_games": 407}
+{"filter": {"genres": [], "tags": ["animation & modeling"], "categories": ["multi-player", "steam cloud"], "languages": []}, "matched_games": 78}
+{"filter": {"genres": ["strategy"], "tags": ["3d", "crafting"], "categories": ["full controller support"], "languages": ["russian", "turkish"]}, "matched_games": 287}
+{"filter": {"genres": ["casual", "early access", "free to play"], "tags": [], "categories": [], "languages": ["simplified chinese", "uzbek"]}, "matched_games": 18953}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["english", "japanese"]}, "matched_games": 110203}
+{"filter": {"genres": [], "tags": [], "categories": ["shared/split screen pvp"], "languages": ["english"]}, "matched_games": 5039}
+{"filter": {"genres": [], "tags": [], "categories": ["color alternatives"], "languages": ["belarusian", "danish", "russian"]}, "matched_games": 593}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["vietnamese"]}, "matched_games": 3436}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["japanese"]}, "matched_games": 13483}
+{"filter": {"genres": [], "tags": ["dark fantasy", "score attack"], "categories": [], "languages": ["bosnian"]}, "matched_games": 64}
+{"filter": {"genres": ["adventure"], "tags": ["martial arts", "mystery dungeon"], "categories": [], "languages": []}, "matched_games": 777}
+{"filter": {"genres": [], "tags": ["level editor", "relaxing"], "categories": ["single-player"], "languages": []}, "matched_games": 9951}
+{"filter": {"genres": ["indie"], "tags": ["strategy"], "categories": [], "languages": ["quechua"]}, "matched_games": 152}
+{"filter": {"genres": ["indie"], "tags": ["level editor"], "categories": ["steam cloud", "steam leaderboards"], "languages": ["french"]}, "matched_games": 210}
+{"filter": {"genres": ["indie"], "tags": ["casual"], "categories": ["full controller support", "multi-player"], "languages": ["portuguese - portugal"]}, "matched_games": 1205}
+{"filter": {"genres": ["adventure"], "tags": ["violent"], "categories": ["family sharing"], "languages": []}, "matched_games": 2219}
+{"filter": {"genres": [], "tags": ["anime"], "categories": ["multi-player", "vr only"], "languages": ["english", "korean"]}, "matched_games": 948}
+{"filter": {"genres": [], "tags": ["music"], "categories": ["single-player"], "languages": ["dutch"]}, "matched_games": 102}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements"], "languages": ["english"]}, "matched_games": 54622}
+{"filter": {"genres": ["adventure"], "tags": ["2.5d", "e-sports"], "categories": ["steam leaderboards", "touch only option"], "languages": ["spanish - spain"]}, "matched_games": 40}
+{"filter": {"genres": ["adventure", "game development"], "tags": [], "categories": [], "languages": []}, "matched_games": 45416}
+{"filter": {"genres": ["free to play", "racing"], "tags": [], "categories": [], "languages": ["english", "hungarian"]}, "matched_games": 14666}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["marathi", "urdu"]}, "matched_games": 2000}
+{"filter": {"genres": [], "tags": ["old school", "singleplayer"], "categories": ["single-player"], "languages": ["greek"]}, "matched_games": 1648}
+{"filter": {"genres": [], "tags": [], "categories": ["mouse only option"], "languages": ["telugu"]}, "matched_games": 280}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["gujarati", "wolof"]}, "matched_games": 1973}
+{"filter": {"genres": ["indie"], "tags": ["singleplayer"], "categories": ["steam leaderboards"], "languages": ["dutch", "simplified chinese"]}, "matched_games": 1224}
+{"filter": {"genres": [], "tags": ["dark fantasy"], "categories": ["steam achievements"], "languages": ["bangla", "swedish"]}, "matched_games": 65}
+{"filter": {"genres": ["action", "casual", "indie"], "tags": [], "categories": [], "languages": ["english", "polish", "ukrainian"]}, "matched_games": 97287}
+{"filter": {"genres": [], "tags": ["action"], "categories": [], "languages": ["portuguese - brazil"]}, "matched_games": 5960}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["partial controller support", "single-player"], "languages": []}, "matched_games": 78000}
+{"filter": {"genres": ["casual"], "tags": ["dystopian", "early access"], "categories": [], "languages": []}, "matched_games": 3759}
+{"filter": {"genres": [], "tags": ["sci-fi"], "categories": [], "languages": ["basque", "english", "turkish"]}, "matched_games": 8291}
+{"filter": {"genres": [], "tags": ["automobile sim"], "categories": ["family sharing"], "languages": []}, "matched_games": 1079}
+{"filter": {"genres": [], "tags": ["action roguelike", "exploration"], "categories": ["co-op"], "languages": ["italian", "korean", "punjabi (gurmukhi)"]}, "matched_games": 745}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player"], "languages": ["english"]}, "matched_games": 103103}
+{"filter": {"genres": [], "tags": [], "categories": ["playable without timed input", "steam achievements"], "languages": []}, "matched_games": 57581}
+{"filter": {"genres": ["strategy"], "tags": ["singleplayer", "tennis", "turn-based strategy"], "categories": ["partial controller support"], "languages": []}, "matched_games": 821}
+{"filter": {"genres": [], "tags": [], "categories": ["partial controller support", "steam leaderboards"], "languages": []}, "matched_games": 21505}
+{"filter": {"genres": [], "tags": ["futuristic", "singleplayer"], "categories": [], "languages": []}, "matched_games": 51395}
+{"filter": {"genres": [], "tags": [], "categories": ["co-op", "family sharing"], "languages": []}, "matched_games": 98198}
+{"filter": {"genres": [], "tags": ["3d platformer", "robots"], "categories": [], "languages": ["english", "polish", "ukrainian"]}, "matched_games": 5549}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "includes level editor"], "languages": []}, "matched_games": 96304}
+{"filter": {"genres": ["action", "adventure"], "tags": [], "categories": [], "languages": ["afrikaans", "swahili"]}, "matched_games": 1004}
+{"filter": {"genres": ["rpg"], "tags": ["adventure", "psychedelic"], "categories": [], "languages": []}, "matched_games": 8727}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["kyrgyz", "portuguese - brazil", "slovenian"]}, "matched_games": 17755}
+{"filter": {"genres": [], "tags": ["ninja"], "categories": [], "languages": ["traditional chinese"]}, "matched_games": 138}
+{"filter": {"genres": ["action"], "tags": ["puzzle"], "categories": [], "languages": []}, "matched_games": 3717}
+{"filter": {"genres": ["casual", "early access"], "tags": ["adventure"], "categories": [], "languages": []}, "matched_games": 14561}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["single-player", "steam cloud", "vr supported"], "languages": ["romanian", "thai"]}, "matched_games": 4925}
+{"filter": {"genres": ["action"], "tags": ["cyberpunk", "story rich"], "categories": ["single-player", "steam cloud", "steam workshop"], "languages": []}, "matched_games": 4949}
+{"filter": {"genres": ["early access", "free to play"], "tags": ["character customization"], "categories": [], "languages": ["japanese"]}, "matched_games": 205}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["full controller support"], "languages": ["swedish"]}, "matched_games": 989}
+{"filter": {"genres": [], "tags": ["board game", "multiple endings"], "categories": ["subtitle options"], "languages": []}, "matched_games": 56}
+{"filter": {"genres": [], "tags": [], "categories": ["save anytime", "single-player", "steam achievements"], "languages": []}, "matched_games": 109384}
+{"filter": {"genres": ["racing"], "tags": [], "categories": [], "languages": ["bulgarian"]}, "matched_games": 288}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["english", "russian", "turkish"]}, "matched_games": 109260}
+{"filter": {"genres": [], "tags": ["score attack"], "categories": ["steam cloud"], "languages": ["simplified chinese"]}, "matched_games": 406}
+{"filter": {"genres": [], "tags": ["beautiful"], "categories": ["steam achievements"], "languages": ["spanish - spain"]}, "matched_games": 223}
+{"filter": {"genres": ["simulation"], "tags": ["economy", "rts", "tabletop"], "categories": ["adjustable difficulty", "save anytime"], "languages": ["japanese"]}, "matched_games": 88}
+{"filter": {"genres": [], "tags": ["action-adventure"], "categories": [], "languages": ["norwegian"]}, "matched_games": 400}
+{"filter": {"genres": ["action"], "tags": ["atmospheric", "crime"], "categories": [], "languages": []}, "matched_games": 6913}
+{"filter": {"genres": ["free to play", "indie", "video production"], "tags": [], "categories": ["family sharing", "full controller support", "shared/split screen"], "languages": ["portuguese - brazil"]}, "matched_games": 12224}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["malay", "simplified chinese"]}, "matched_games": 33632}
+{"filter": {"genres": ["indie"], "tags": ["grand strategy"], "categories": ["family sharing"], "languages": []}, "matched_games": 407}
+{"filter": {"genres": ["adventure", "free to play"], "tags": [], "categories": [], "languages": []}, "matched_games": 52928}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": ["steam cloud"], "languages": ["kazakh", "spanish - spain"]}, "matched_games": 2056}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player", "steam achievements"], "languages": []}, "matched_games": 109323}
+{"filter": {"genres": ["action", "audio production"], "tags": [], "categories": [], "languages": []}, "matched_games": 46414}
+{"filter": {"genres": [], "tags": ["exploration"], "categories": ["steam achievements"], "languages": ["arabic", "hungarian"]}, "matched_games": 705}
+{"filter": {"genres": ["adventure", "free to play"], "tags": ["pvp"], "categories": ["full controller support"], "languages": []}, "matched_games": 331}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": [], "languages": ["italian"]}, "matched_games": 4332}
+{"filter": {"genres": ["casual", "indie", "simulation"], "tags": [], "categories": [], "languages": ["spanish - latin america", "turkish"]}, "matched_games": 13533}
+{"filter": {"genres": ["free to play"], "tags": ["2d", "adventure", "turn-based tactics"], "categories": [], "languages": []}, "matched_games": 2676}
+{"filter": {"genres": ["adventure", "indie", "rpg"], "tags": ["indie", "linear", "platformer"], "categories": [], "languages": ["dutch", "portuguese - brazil", "tigrinya"]}, "matched_games": 7957}
+{"filter": {"genres": [], "tags": [], "categories": ["cross-platform multiplayer"], "languages": ["french"]}, "matched_games": 1384}
+{"filter": {"genres": ["racing"], "tags": [], "categories": ["full controller support"], "languages": []}, "matched_games": 1192}
+{"filter": {"genres": ["action"], "tags": ["adventure"], "categories": ["pvp"], "languages": ["turkish"]}, "matched_games": 197}
+{"filter": {"genres": [], "tags": [], "categories": ["shared/split screen co-op"], "languages": ["english", "finnish", "slovak"]}, "matched_games": 4269}
+{"filter": {"genres": ["indie"], "tags": ["indie", "puzzle-platformer"], "categories": ["multi-player", "save anytime"], "languages": ["english"]}, "matched_games": 7951}
+{"filter": {"genres": ["rpg"], "tags": ["multiplayer"], "categories": [], "languages": ["swedish"]}, "matched_games": 51}
+{"filter": {"genres": ["early access"], "tags": ["adventure"], "categories": ["multi-player", "pvp"], "languages": ["polish", "portuguese - brazil", "vietnamese"]}, "matched_games": 162}
+{"filter": {"genres": ["early access"], "tags": [], "categories": [], "languages": ["maori", "russian"]}, "matched_games": 2116}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["french"]}, "matched_games": 13354}
+{"filter": {"genres": ["action", "simulation"], "tags": [], "categories": [], "languages": ["hindi"]}, "matched_games": 1246}
+{"filter": {"genres": [], "tags": ["intentionally awkward controls"], "categories": ["online co-op", "single-player", "steam achievements"], "languages": []}, "matched_games": 94}
+{"filter": {"genres": ["indie"], "tags": ["mystery", "sports"], "categories": ["family sharing", "partial controller support"], "languages": []}, "matched_games": 6682}
+{"filter": {"genres": [], "tags": [], "categories": ["cross-platform multiplayer"], "languages": ["french", "russian", "sorani"]}, "matched_games": 1513}
+{"filter": {"genres": ["action", "adventure", "strategy"], "tags": ["3d", "action rpg", "runner"], "categories": ["steam workshop"], "languages": []}, "matched_games": 405}
+{"filter": {"genres": [], "tags": ["adventure"], "categories": ["tracked controller support"], "languages": []}, "matched_games": 1716}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["dari"]}, "matched_games": 1507}
+{"filter": {"genres": [], "tags": ["adventure"], "categories": [], "languages": ["polish"]}, "matched_games": 4088}
+{"filter": {"genres": ["strategy"], "tags": ["animation & modeling", "atmospheric"], "categories": ["family sharing"], "languages": ["italian"]}, "matched_games": 590}
+{"filter": {"genres": ["action", "adventure", "indie"], "tags": [], "categories": ["family sharing"], "languages": []}, "matched_games": 84146}
+{"filter": {"genres": [], "tags": ["score attack", "supernatural"], "categories": ["multi-player", "single-player", "steam workshop"], "languages": []}, "matched_games": 4751}
+{"filter": {"genres": [], "tags": ["zombies"], "categories": ["steam achievements"], "languages": []}, "matched_games": 1460}
+{"filter": {"genres": ["rpg"], "tags": ["3d", "pixel graphics"], "categories": ["playable without timed input"], "languages": ["japanese"]}, "matched_games": 70}
+{"filter": {"genres": [], "tags": ["capitalism"], "categories": ["family sharing", "online co-op"], "languages": ["french", "german", "russian"]}, "matched_games": 355}
+{"filter": {"genres": [], "tags": ["magic"], "categories": ["steam achievements"], "languages": []}, "matched_games": 2128}
+{"filter": {"genres": ["free to play"], "tags": [], "categories": ["steam achievements"], "languages": ["kazakh", "punjabi (gurmukhi)"]}, "matched_games": 124}
+{"filter": {"genres": ["rpg"], "tags": ["stylized"], "categories": ["full controller support"], "languages": []}, "matched_games": 282}
+{"filter": {"genres": ["adventure"], "tags": ["casual", "point & click"], "categories": ["steam cloud"], "languages": ["kyrgyz", "maltese", "romanian"]}, "matched_games": 194}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": ["valencian", "xhosa"]}, "matched_games": 1766}
+{"filter": {"genres": ["animation & modeling", "casual"], "tags": ["atmospheric"], "categories": ["remote play together"], "languages": ["sindhi", "spanish - spain"]}, "matched_games": 87}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["maori", "portuguese - brazil"]}, "matched_games": 17746}
+{"filter": {"genres": ["early access"], "tags": ["colorful", "third person"], "categories": ["steam cloud"], "languages": ["english", "traditional chinese"]}, "matched_games": 411}
+{"filter": {"genres": [], "tags": [], "categories": ["custom volume controls", "family sharing", "playable without timed input"], "languages": ["traditional chinese"]}, "matched_games": 15816}
+{"filter": {"genres": ["massively multiplayer"], "tags": ["cute"], "categories": [], "languages": ["spanish - spain"]}, "matched_games": 50}
+{"filter": {"genres": ["casual", "simulation"], "tags": [], "categories": [], "languages": []}, "matched_games": 61796}
+{"filter": {"genres": ["action", "early access"], "tags": ["rts"], "categories": [], "languages": ["kazakh", "russian"]}, "matched_games": 311}
+{"filter": {"genres": [], "tags": ["fantasy", "hero shooter"], "categories": ["partial controller support", "remote play together"], "languages": []}, "matched_games": 2456}
+{"filter": {"genres": [], "tags": ["abstract", "western"], "categories": [], "languages": []}, "matched_games": 2552}
+{"filter": {"genres": [], "tags": ["fast-paced", "retro"], "categories": ["co-op"], "languages": []}, "matched_games": 1099}
+{"filter": {"genres": [], "tags": [], "categories": ["online co-op"], "languages": ["dutch"]}, "matched_games": 551}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["english", "kazakh", "spanish - spain"]}, "matched_games": 109176}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["family sharing", "single-player"], "languages": ["basque", "bulgarian", "georgian"]}, "matched_games": 1707}
+{"filter": {"genres": ["action", "free to play"], "tags": ["pixel graphics"], "categories": [], "languages": []}, "matched_games": 7494}
+{"filter": {"genres": ["action", "racing", "sports"], "tags": ["story rich"], "categories": [], "languages": []}, "matched_games": 4096}
+{"filter": {"genres": ["action", "adventure"], "tags": [], "categories": [], "languages": ["bulgarian", "czech"]}, "matched_games": 3652}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "steam achievements"], "languages": []}, "matched_games": 101532}
+{"filter": {"genres": ["casual"], "tags": ["demons"], "categories": [], "languages": ["maltese", "russian"]}, "matched_games": 112}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["steam leaderboards"], "languages": []}, "matched_games": 1928}
+{"filter": {"genres": ["adventure", "rpg"], "tags": [], "categories": [], "languages": []}, "matched_games": 54166}
+{"filter": {"genres": [], "tags": ["casual", "old school"], "categories": [], "languages": ["dutch", "swedish", "vietnamese"]}, "matched_games": 3621}
+{"filter": {"genres": [], "tags": ["multiple endings"], "categories": ["family sharing", "full controller support", "single-player"], "languages": []}, "matched_games": 5339}
+{"filter": {"genres": [], "tags": [], "categories": ["custom volume controls", "single-player"], "languages": []}, "matched_games": 108191}
+{"filter": {"genres": [], "tags": ["psychological horror"], "categories": [], "languages": ["german", "greek", "italian"]}, "matched_games": 1763}
+{"filter": {"genres": ["free to play", "sexual content"], "tags": [], "categories": ["steam achievements"], "languages": ["spanish - spain"]}, "matched_games": 1089}
+{"filter": {"genres": [], "tags": ["crafting", "crime", "logic"], "categories": [], "languages": ["french", "nepali", "swedish"]}, "matched_games": 2955}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["cherokee", "macedonian", "maltese"]}, "matched_games": 1981}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": ["steam achievements"], "languages": []}, "matched_games": 9993}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["english"]}, "matched_games": 77306}
+{"filter": {"genres": ["early access", "indie"], "tags": [], "categories": ["remote play on tv"], "languages": ["english"]}, "matched_games": 1937}
+{"filter": {"genres": [], "tags": ["action roguelike", "party game"], "categories": ["online pvp"], "languages": []}, "matched_games": 329}
+{"filter": {"genres": [], "tags": ["exploration"], "categories": [], "languages": ["korean"]}, "matched_games": 2543}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["family sharing"], "languages": []}, "matched_games": 39251}
+{"filter": {"genres": ["rpg"], "tags": ["america", "magic", "moba"], "categories": [], "languages": ["assamese", "english", "uyghur"]}, "matched_games": 1803}
+{"filter": {"genres": [], "tags": [], "categories": ["playable without timed input"], "languages": ["afrikaans"]}, "matched_games": 362}
+{"filter": {"genres": [], "tags": ["atmospheric", "stylized", "thriller"], "categories": ["custom volume controls", "family sharing", "mouse only option"], "languages": ["turkish"]}, "matched_games": 2503}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": [], "languages": ["filipino", "k'iche'", "spanish - spain"]}, "matched_games": 7077}
+{"filter": {"genres": [], "tags": [], "categories": ["partial controller support", "save anytime"], "languages": []}, "matched_games": 16985}
+{"filter": {"genres": [], "tags": ["2d"], "categories": [], "languages": ["dutch", "german"]}, "matched_games": 6853}
+{"filter": {"genres": ["indie"], "tags": ["third person"], "categories": [], "languages": []}, "matched_games": 4819}
+{"filter": {"genres": [], "tags": [], "categories": ["partial controller support"], "languages": ["finnish"]}, "matched_games": 437}
+{"filter": {"genres": [], "tags": ["action rpg", "indie", "physics"], "categories": ["keyboard only option"], "languages": ["bosnian", "russian"]}, "matched_games": 198}
+{"filter": {"genres": ["adventure", "casual"], "tags": [], "categories": [], "languages": []}, "matched_games": 77559}
+{"filter": {"genres": ["casual"], "tags": ["indie", "retro", "rpg"], "categories": ["partial controller support", "steam cloud"], "languages": []}, "matched_games": 8705}
+{"filter": {"genres": ["strategy"], "tags": ["controller"], "categories": [], "languages": []}, "matched_games": 769}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player", "steam achievements"], "languages": ["danish", "japanese"]}, "matched_games": 28647}
+{"filter": {"genres": ["photo editing", "simulation", "strategy"], "tags": ["3d", "lgbtq+"], "categories": [], "languages": []}, "matched_games": 7593}
+{"filter": {"genres": ["racing"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 3876}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["english"]}, "matched_games": 48017}
+{"filter": {"genres": [], "tags": ["demons", "experimental"], "categories": ["steam achievements"], "languages": ["albanian", "polish"]}, "matched_games": 321}
+{"filter": {"genres": [], "tags": ["fast-paced"], "categories": ["online pvp", "single-player"], "languages": ["valencian"]}, "matched_games": 108}
+{"filter": {"genres": [], "tags": ["vr"], "categories": ["steam cloud"], "languages": ["portuguese - brazil"]}, "matched_games": 134}
+{"filter": {"genres": ["early access"], "tags": [], "categories": [], "languages": ["italian"]}, "matched_games": 1349}
+{"filter": {"genres": ["adventure"], "tags": ["strategy"], "categories": [], "languages": []}, "matched_games": 4855}
+{"filter": {"genres": [], "tags": ["futuristic"], "categories": [], "languages": ["arabic", "simplified chinese", "slovenian"]}, "matched_games": 942}
+{"filter": {"genres": ["casual", "early access", "indie"], "tags": [], "categories": ["online co-op"], "languages": ["simplified chinese"]}, "matched_games": 2123}
+{"filter": {"genres": [], "tags": [], "categories": ["keyboard only option"], "languages": ["italian", "korean", "portuguese - portugal"]}, "matched_games": 757}
+{"filter": {"genres": ["indie"], "tags": ["arcade", "precision platformer"], "categories": [], "languages": []}, "matched_games": 10263}
+{"filter": {"genres": ["massively multiplayer"], "tags": ["simulation", "soundtrack"], "categories": [], "languages": []}, "matched_games": 497}
+{"filter": {"genres": ["action"], "tags": [], "categories": [], "languages": ["greek"]}, "matched_games": 1686}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["cross-platform multiplayer", "save anytime"], "languages": []}, "matched_games": 1868}
+{"filter": {"genres": [], "tags": ["adventure"], "categories": ["family sharing", "vr only"], "languages": ["belarusian"]}, "matched_games": 313}
+{"filter": {"genres": ["casual", "simulation", "strategy"], "tags": [], "categories": [], "languages": []}, "matched_games": 70153}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player", "vr only"], "languages": []}, "matched_games": 108556}
+{"filter": {"genres": ["action", "adventure", "indie"], "tags": ["vehicular combat"], "categories": ["steam achievements"], "languages": ["polish"]}, "matched_games": 64}
+{"filter": {"genres": [], "tags": ["cartoony"], "categories": [], "languages": ["spanish - spain"]}, "matched_games": 1731}
+{"filter": {"genres": ["action", "early access"], "tags": ["shoot 'em up"], "categories": ["shared/split screen co-op"], "languages": ["polish"]}, "matched_games": 41}
+{"filter": {"genres": [], "tags": ["action-adventure", "detective"], "categories": ["single-player"], "languages": []}, "matched_games": 11248}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["english", "german"]}, "matched_games": 109159}
+{"filter": {"genres": ["adventure"], "tags": ["runner"], "categories": ["family sharing", "single-player", "stereo sound"], "languages": []}, "matched_games": 677}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": [], "languages": ["polish", "spanish - spain"]}, "matched_games": 11803}
+{"filter": {"genres": [], "tags": ["strategy"], "categories": [], "languages": ["spanish - spain"]}, "matched_games": 4969}
+{"filter": {"genres": ["gore", "indie"], "tags": ["first-person", "strategy"], "categories": ["single-player"], "languages": []}, "matched_games": 19748}
+{"filter": {"genres": [], "tags": ["tactical"], "categories": ["remote play on phone", "remote play together", "steam cloud"], "languages": ["italian"]}, "matched_games": 472}
+{"filter": {"genres": [], "tags": ["logic"], "categories": ["keyboard only option"], "languages": []}, "matched_games": 75}
+{"filter": {"genres": [], "tags": ["base-building"], "categories": ["online co-op", "steam trading cards"], "languages": []}, "matched_games": 729}
+{"filter": {"genres": ["adventure"], "tags": ["procedural generation"], "categories": ["steam cloud"], "languages": ["german", "wolof"]}, "matched_games": 236}
+{"filter": {"genres": [], "tags": [], "categories": ["partial controller support"], "languages": ["bosnian", "indonesian"]}, "matched_games": 282}
+{"filter": {"genres": [], "tags": ["adventure", "education"], "categories": [], "languages": ["swedish"]}, "matched_games": 1705}
+{"filter": {"genres": ["action"], "tags": [], "categories": [], "languages": ["finnish", "norwegian"]}, "matched_games": 2071}
+{"filter": {"genres": ["massively multiplayer"], "tags": ["action"], "categories": ["family sharing"], "languages": []}, "matched_games": 711}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": ["stats"], "languages": []}, "matched_games": 693}
+{"filter": {"genres": ["casual", "free to play", "indie"], "tags": [], "categories": [], "languages": ["indonesian", "odia", "swedish"]}, "matched_games": 6239}
+{"filter": {"genres": [], "tags": [], "categories": ["stereo sound"], "languages": ["english"]}, "matched_games": 3876}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": [], "languages": ["tamil", "tatar"]}, "matched_games": 653}
+{"filter": {"genres": ["utilities"], "tags": [], "categories": ["tracked controller support"], "languages": []}, "matched_games": 126}
+{"filter": {"genres": ["action"], "tags": [], "categories": [], "languages": ["spanish - spain"]}, "matched_games": 11759}
+{"filter": {"genres": [], "tags": ["sandbox"], "categories": [], "languages": ["german", "italian", "russian"]}, "matched_games": 2273}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player"], "languages": ["english", "spanish - spain"]}, "matched_games": 103193}
+{"filter": {"genres": ["adventure", "simulation"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 59812}
+{"filter": {"genres": [], "tags": ["building", "singleplayer", "time management"], "categories": [], "languages": []}, "matched_games": 52130}
+{"filter": {"genres": [], "tags": ["physics"], "categories": ["single-player", "steam achievements", "stereo sound"], "languages": ["kannada", "simplified chinese"]}, "matched_games": 1862}
+{"filter": {"genres": ["casual"], "tags": ["adventure", "cartoony"], "categories": [], "languages": ["assamese", "slovak", "traditional chinese"]}, "matched_games": 2396}
+{"filter": {"genres": [], "tags": [], "categories": ["remote play together"], "languages": ["romanian"]}, "matched_games": 225}
+{"filter": {"genres": ["adventure", "rpg"], "tags": ["violent"], "categories": [], "languages": []}, "matched_games": 2727}
+{"filter": {"genres": [], "tags": ["parody", "space sim"], "categories": [], "languages": []}, "matched_games": 1577}
+{"filter": {"genres": ["adventure"], "tags": ["action-adventure"], "categories": ["camera comfort"], "languages": ["english"]}, "matched_games": 148}
+{"filter": {"genres": [], "tags": ["fps"], "categories": ["shared/split screen co-op"], "languages": []}, "matched_games": 67}
+{"filter": {"genres": [], "tags": [], "categories": ["cross-platform multiplayer", "steam trading cards"], "languages": []}, "matched_games": 13811}
+{"filter": {"genres": [], "tags": [], "categories": ["custom volume controls", "shared/split screen pvp"], "languages": []}, "matched_games": 11339}
+{"filter": {"genres": ["action", "racing"], "tags": [], "categories": [], "languages": ["punjabi (gurmukhi)"]}, "matched_games": 646}
+{"filter": {"genres": [], "tags": ["fantasy", "mystery"], "categories": ["family sharing"], "languages": []}, "matched_games": 15465}
+{"filter": {"genres": [], "tags": ["walking simulator"], "categories": [], "languages": ["danish"]}, "matched_games": 110}
+{"filter": {"genres": [], "tags": ["bullet hell"], "categories": ["multi-player"], "languages": []}, "matched_games": 686}
+{"filter": {"genres": ["rpg"], "tags": ["bullet hell", "strategy"], "categories": ["remote play together"], "languages": []}, "matched_games": 198}
+{"filter": {"genres": ["action"], "tags": [], "categories": [], "languages": ["german", "zulu"]}, "matched_games": 12158}
+{"filter": {"genres": [], "tags": ["nonlinear"], "categories": ["multi-player", "steam workshop"], "languages": ["german"]}, "matched_games": 62}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "multi-player"], "languages": ["german"]}, "matched_games": 27719}
+{"filter": {"genres": ["action", "indie"], "tags": ["retro"], "categories": ["single-player", "tracked controller support"], "languages": ["scots"]}, "matched_games": 162}
+{"filter": {"genres": ["adventure"], "tags": ["character customization"], "categories": [], "languages": []}, "matched_games": 1601}
+{"filter": {"genres": [], "tags": [], "categories": ["camera comfort", "single-player"], "languages": ["icelandic"]}, "matched_games": 1999}
+{"filter": {"genres": ["early access", "indie"], "tags": [], "categories": ["family sharing", "hdr available"], "languages": []}, "matched_games": 71206}
+{"filter": {"genres": [], "tags": ["simulation"], "categories": ["steam achievements"], "languages": ["simplified chinese"]}, "matched_games": 3693}
+{"filter": {"genres": [], "tags": [], "categories": ["pvp", "shared/split screen"], "languages": []}, "matched_games": 15423}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "single-player"], "languages": []}, "matched_games": 110400}
+{"filter": {"genres": ["casual", "indie", "strategy"], "tags": ["visual novel"], "categories": ["steam achievements"], "languages": []}, "matched_games": 2752}
+{"filter": {"genres": ["simulation"], "tags": ["survival", "third person"], "categories": ["single-player"], "languages": []}, "matched_games": 3082}
+{"filter": {"genres": ["rpg"], "tags": ["comedy", "nudity", "third-person shooter"], "categories": [], "languages": []}, "matched_games": 2201}
+{"filter": {"genres": [], "tags": ["3d"], "categories": ["single-player"], "languages": []}, "matched_games": 17138}
+{"filter": {"genres": [], "tags": ["choose your own adventure", "indie", "point & click"], "categories": ["family sharing"], "languages": []}, "matched_games": 47569}
+{"filter": {"genres": ["casual"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 48163}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": [], "languages": ["cherokee", "german", "simplified chinese"]}, "matched_games": 11005}
+{"filter": {"genres": ["action"], "tags": ["indie", "stealth"], "categories": ["family sharing"], "languages": ["german", "swedish"]}, "matched_games": 4976}
+{"filter": {"genres": ["casual"], "tags": ["cold war", "psychedelic"], "categories": [], "languages": []}, "matched_games": 689}
+{"filter": {"genres": [], "tags": ["rpg"], "categories": [], "languages": ["hindi"]}, "matched_games": 82}
+{"filter": {"genres": [], "tags": ["dark fantasy", "hand-drawn", "tactical rpg"], "categories": [], "languages": []}, "matched_games": 8382}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["single-player"], "languages": ["english"]}, "matched_games": 74415}
+{"filter": {"genres": [], "tags": ["magic", "relaxing"], "categories": [], "languages": ["bosnian"]}, "matched_games": 190}
+{"filter": {"genres": [], "tags": ["2d"], "categories": [], "languages": ["english", "urdu"]}, "matched_games": 25444}
+{"filter": {"genres": [], "tags": ["first-person"], "categories": ["playable without timed input"], "languages": ["english", "khmer"]}, "matched_games": 367}
+{"filter": {"genres": ["action", "simulation"], "tags": [], "categories": ["family sharing"], "languages": []}, "matched_games": 54392}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": [], "languages": ["indonesian", "turkish", "turkmen"]}, "matched_games": 1783}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["hindi", "simplified chinese"]}, "matched_games": 33645}
+{"filter": {"genres": [], "tags": ["futuristic"], "categories": ["family sharing"], "languages": ["japanese"]}, "matched_games": 790}
+{"filter": {"genres": ["indie"], "tags": ["detective", "mature", "utilities"], "categories": [], "languages": ["english", "portuguese - portugal"]}, "matched_games": 2373}
+{"filter": {"genres": ["casual"], "tags": ["surreal"], "categories": ["steam achievements", "vr only"], "languages": []}, "matched_games": 616}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["full controller support", "partial controller support", "single-player"], "languages": ["azerbaijani", "french", "quechua"]}, "matched_games": 19557}
+{"filter": {"genres": ["racing"], "tags": [], "categories": ["online pvp"], "languages": []}, "matched_games": 858}
+{"filter": {"genres": [], "tags": [], "categories": ["full controller support", "online pvp"], "languages": []}, "matched_games": 32567}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["spanish - spain"]}, "matched_games": 19069}
+{"filter": {"genres": [], "tags": [], "categories": ["save anytime", "vr only"], "languages": ["english", "simplified chinese"]}, "matched_games": 9110}
+{"filter": {"genres": [], "tags": ["shooter", "third person"], "categories": [], "languages": []}, "matched_games": 14886}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["family sharing", "mouse only option"], "languages": []}, "matched_games": 21023}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["includes level editor"], "languages": []}, "matched_games": 1992}
+{"filter": {"genres": ["design & illustration", "indie", "strategy"], "tags": [], "categories": [], "languages": []}, "matched_games": 87568}
+{"filter": {"genres": ["gore"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 245}
+{"filter": {"genres": ["early access", "indie", "strategy"], "tags": [], "categories": [], "languages": ["english"]}, "matched_games": 85275}
+{"filter": {"genres": [], "tags": ["atmospheric"], "categories": [], "languages": ["english"]}, "matched_games": 15972}
+{"filter": {"genres": ["action", "simulation"], "tags": [], "categories": ["family sharing"], "languages": ["hungarian"]}, "matched_games": 2957}
+{"filter": {"genres": ["racing"], "tags": ["character action game", "economy", "time manipulation"], "categories": [], "languages": []}, "matched_games": 48}
+{"filter": {"genres": ["action"], "tags": [], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 12440}
+{"filter": {"genres": [], "tags": ["controller", "singleplayer"], "categories": ["stats"], "languages": ["italian"]}, "matched_games": 623}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["family sharing", "remote play together"], "languages": ["spanish - latin america"]}, "matched_games": 6382}
+{"filter": {"genres": ["action"], "tags": ["hacking"], "categories": [], "languages": []}, "matched_games": 170}
+{"filter": {"genres": ["adventure", "sports"], "tags": [], "categories": [], "languages": []}, "matched_games": 48831}
+{"filter": {"genres": ["casual"], "tags": ["multiplayer", "rogue-like", "tactical"], "categories": [], "languages": ["mongolian"]}, "matched_games": 52}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["english", "spanish - latin america"]}, "matched_games": 48041}
+{"filter": {"genres": ["indie", "massively multiplayer"], "tags": [], "categories": [], "languages": []}, "matched_games": 81634}
+{"filter": {"genres": ["action", "adventure"], "tags": [], "categories": [], "languages": ["korean"]}, "matched_games": 11552}
+{"filter": {"genres": ["casual"], "tags": ["casual"], "categories": ["family sharing", "online co-op", "single-player"], "languages": ["punjabi (shahmukhi)"]}, "matched_games": 339}
+{"filter": {"genres": ["indie"], "tags": ["adventure", "casual"], "categories": ["online co-op"], "languages": ["english"]}, "matched_games": 2228}
+{"filter": {"genres": ["action"], "tags": ["exploration", "hand-drawn"], "categories": ["family sharing", "single-player", "steam achievements"], "languages": []}, "matched_games": 6459}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["single-player"], "languages": ["dutch"]}, "matched_games": 5445}
+{"filter": {"genres": [], "tags": ["dungeon crawler"], "categories": ["steam achievements"], "languages": []}, "matched_games": 1645}
+{"filter": {"genres": [], "tags": ["sci-fi"], "categories": [], "languages": ["indonesian", "simplified chinese"]}, "matched_games": 2279}
+{"filter": {"genres": ["adventure", "indie"], "tags": [], "categories": [], "languages": ["english"]}, "matched_games": 87545}
+{"filter": {"genres": ["education", "indie"], "tags": ["casual", "open world survival craft"], "categories": [], "languages": []}, "matched_games": 28304}
+{"filter": {"genres": ["indie", "simulation"], "tags": [], "categories": [], "languages": []}, "matched_games": 87737}
+{"filter": {"genres": ["indie"], "tags": ["arcade", "old school"], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 2586}
+{"filter": {"genres": [], "tags": [], "categories": ["tracked controller support"], "languages": ["japanese"]}, "matched_games": 1035}
+{"filter": {"genres": ["action", "simulation"], "tags": [], "categories": [], "languages": []}, "matched_games": 63759}
+{"filter": {"genres": [], "tags": ["casual"], "categories": ["adjustable difficulty", "shared/split screen co-op"], "languages": []}, "matched_games": 1799}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["steam achievements"], "languages": []}, "matched_games": 42759}
+{"filter": {"genres": ["casual"], "tags": [], "categories": ["full controller support", "shared/split screen pvp"], "languages": ["luxembourgish", "romanian"]}, "matched_games": 582}
+{"filter": {"genres": [], "tags": ["tactical"], "categories": [], "languages": ["tamil"]}, "matched_games": 51}
+{"filter": {"genres": ["early access"], "tags": ["sports"], "categories": ["online co-op", "vr only"], "languages": []}, "matched_games": 173}
+{"filter": {"genres": [], "tags": [], "categories": ["multi-player", "steam trading cards"], "languages": []}, "matched_games": 28815}
+{"filter": {"genres": [], "tags": ["hand-drawn"], "categories": ["single-player"], "languages": ["maori"]}, "matched_games": 66}
+{"filter": {"genres": ["strategy"], "tags": ["co-op"], "categories": [], "languages": []}, "matched_games": 1008}
+{"filter": {"genres": ["action"], "tags": ["2d", "hentai", "match 3"], "categories": [], "languages": []}, "matched_games": 10796}
+{"filter": {"genres": ["adventure"], "tags": ["gothic"], "categories": [], "languages": []}, "matched_games": 319}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": [], "languages": ["albanian"]}, "matched_games": 242}
+{"filter": {"genres": [], "tags": ["exploration"], "categories": ["single-player"], "languages": ["english", "german", "spanish - spain"]}, "matched_games": 12575}
+{"filter": {"genres": [], "tags": [], "categories": ["co-op", "shared/split screen"], "languages": []}, "matched_games": 14221}
+{"filter": {"genres": [], "tags": ["funny"], "categories": [], "languages": ["sorani"]}, "matched_games": 59}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": [], "languages": ["yoruba"]}, "matched_games": 653}
+{"filter": {"genres": [], "tags": ["action"], "categories": ["stats"], "languages": []}, "matched_games": 2318}
+{"filter": {"genres": ["casual"], "tags": ["casual"], "categories": [], "languages": ["japanese", "russian"]}, "matched_games": 10691}
+{"filter": {"genres": ["early access", "strategy"], "tags": [], "categories": [], "languages": []}, "matched_games": 30696}
+{"filter": {"genres": [], "tags": ["family friendly", "procedural generation"], "categories": ["shared/split screen pvp"], "languages": []}, "matched_games": 1013}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["german", "polish"]}, "matched_games": 30421}
+{"filter": {"genres": ["action", "indie", "simulation"], "tags": [], "categories": [], "languages": ["korean"]}, "matched_games": 17180}
+{"filter": {"genres": ["indie"], "tags": ["open world", "retro"], "categories": [], "languages": []}, "matched_games": 10744}
+{"filter": {"genres": [], "tags": ["procedural generation"], "categories": ["family sharing", "single-player"], "languages": []}, "matched_games": 3683}
+{"filter": {"genres": [], "tags": [], "categories": ["online co-op"], "languages": ["macedonian", "quechua"]}, "matched_games": 41}
+{"filter": {"genres": [], "tags": ["pixel graphics"], "categories": ["partial controller support", "single-player"], "languages": ["sinhala", "spanish - spain"]}, "matched_games": 2793}
+{"filter": {"genres": ["free to play", "rpg", "strategy"], "tags": ["game development"], "categories": [], "languages": []}, "matched_games": 117}
+{"filter": {"genres": [], "tags": ["dark humor"], "categories": [], "languages": ["amharic", "english", "maori"]}, "matched_games": 1824}
+{"filter": {"genres": [], "tags": ["3d", "female protagonist", "western"], "categories": [], "languages": []}, "matched_games": 24549}
+{"filter": {"genres": ["indie"], "tags": ["puzzle-platformer"], "categories": [], "languages": []}, "matched_games": 3433}
+{"filter": {"genres": [], "tags": ["story rich"], "categories": ["family sharing"], "languages": []}, "matched_games": 12395}
+{"filter": {"genres": [], "tags": ["difficult"], "categories": ["single-player"], "languages": ["spanish - spain"]}, "matched_games": 2218}
+{"filter": {"genres": [], "tags": [], "categories": ["pvp"], "languages": ["slovenian"]}, "matched_games": 67}
+{"filter": {"genres": [], "tags": ["ninja"], "categories": ["multi-player"], "languages": []}, "matched_games": 126}
+{"filter": {"genres": [], "tags": ["indie", "runner"], "categories": ["full controller support"], "languages": []}, "matched_games": 11994}
+{"filter": {"genres": [], "tags": ["dark fantasy", "resource management"], "categories": [], "languages": []}, "matched_games": 6073}
+{"filter": {"genres": ["casual", "strategy"], "tags": [], "categories": [], "languages": ["polish"]}, "matched_games": 8171}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": [], "languages": ["latvian"]}, "matched_games": 792}
+{"filter": {"genres": ["indie"], "tags": ["multiple endings"], "categories": ["single-player", "steam cloud", "vr supported"], "languages": ["french"]}, "matched_games": 749}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["basque", "sindhi"]}, "matched_games": 2056}
+{"filter": {"genres": [], "tags": ["spaceships"], "categories": [], "languages": ["spanish - spain", "uyghur"]}, "matched_games": 54}
+{"filter": {"genres": ["adventure"], "tags": ["2d platformer", "mystery"], "categories": ["partial controller support"], "languages": []}, "matched_games": 1062}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["multi-player"], "languages": ["korean"]}, "matched_games": 1326}
+{"filter": {"genres": [], "tags": ["colorful"], "categories": [], "languages": ["english"]}, "matched_games": 13985}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["full controller support", "steam achievements"], "languages": []}, "matched_games": 48024}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": [], "languages": ["english"]}, "matched_games": 42744}
+{"filter": {"genres": [], "tags": [], "categories": ["steam cloud"], "languages": ["norwegian"]}, "matched_games": 1710}
+{"filter": {"genres": ["indie"], "tags": ["minimalist"], "categories": ["steam achievements"], "languages": ["french"]}, "matched_games": 1082}
+{"filter": {"genres": ["indie"], "tags": ["rpg"], "categories": [], "languages": ["romanian"]}, "matched_games": 225}
+{"filter": {"genres": [], "tags": ["parody"], "categories": [], "languages": ["french", "japanese"]}, "matched_games": 229}
+{"filter": {"genres": ["sports"], "tags": ["controller"], "categories": ["pvp"], "languages": []}, "matched_games": 325}
+{"filter": {"genres": ["casual"], "tags": ["simulation", "trading"], "categories": ["family sharing"], "languages": []}, "matched_games": 7606}
+{"filter": {"genres": ["casual", "free to play"], "tags": ["action rpg", "dungeon crawler", "vr"], "categories": [], "languages": []}, "matched_games": 4210}
+{"filter": {"genres": [], "tags": ["cartoony"], "categories": [], "languages": ["danish"]}, "matched_games": 244}
+{"filter": {"genres": ["simulation"], "tags": ["platformer"], "categories": ["single-player"], "languages": ["french", "maori"]}, "matched_games": 148}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["steam achievements"], "languages": []}, "matched_games": 11614}
+{"filter": {"genres": ["adventure", "casual"], "tags": ["fast-paced", "sandbox"], "categories": [], "languages": ["norwegian", "spanish - spain"]}, "matched_games": 1438}
+{"filter": {"genres": [], "tags": ["hidden object", "pve", "strategy"], "categories": ["custom volume controls", "remote play on tv"], "languages": ["kyrgyz", "macedonian", "portuguese - brazil"]}, "matched_games": 528}
+{"filter": {"genres": ["early access"], "tags": ["singleplayer"], "categories": [], "languages": []}, "matched_games": 3694}
+{"filter": {"genres": ["indie"], "tags": ["co-op"], "categories": [], "languages": ["english"]}, "matched_games": 3435}
+{"filter": {"genres": [], "tags": ["great soundtrack"], "categories": ["multi-player"], "languages": []}, "matched_games": 887}
+{"filter": {"genres": ["action", "indie"], "tags": ["space"], "categories": [], "languages": []}, "matched_games": 3850}
+{"filter": {"genres": [], "tags": ["boss rush", "retro"], "categories": [], "languages": ["hungarian", "romanian"]}, "matched_games": 407}
+{"filter": {"genres": ["sports"], "tags": ["replay value"], "categories": ["single-player"], "languages": ["english", "simplified chinese"]}, "matched_games": 76}
+{"filter": {"genres": [], "tags": ["hidden object"], "categories": ["single-player"], "languages": ["yoruba"]}, "matched_games": 74}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "shared/split screen", "single-player"], "languages": []}, "matched_games": 110677}
+{"filter": {"genres": ["indie", "rpg", "strategy"], "tags": [], "categories": [], "languages": ["spanish - spain"]}, "matched_games": 21856}
+{"filter": {"genres": ["adventure", "free to play"], "tags": [], "categories": ["online co-op"], "languages": []}, "matched_games": 3648}
+{"filter": {"genres": ["adventure"], "tags": ["funny", "minigames", "nsfw"], "categories": [], "languages": ["czech", "english"]}, "matched_games": 4519}
+{"filter": {"genres": [], "tags": [], "categories": ["full controller support", "partial controller support"], "languages": []}, "matched_games": 39136}
+{"filter": {"genres": [], "tags": ["fighting"], "categories": ["single-player"], "languages": ["gujarati", "kannada", "spanish - latin america"]}, "matched_games": 123}
+{"filter": {"genres": [], "tags": [], "categories": ["vr support"], "languages": ["german", "maltese"]}, "matched_games": 61}
+{"filter": {"genres": ["action", "simulation"], "tags": [], "categories": [], "languages": ["norwegian"]}, "matched_games": 3125}
+{"filter": {"genres": ["strategy"], "tags": ["3d", "female protagonist", "singleplayer"], "categories": [], "languages": []}, "matched_games": 11327}
+{"filter": {"genres": ["adventure"], "tags": ["early access", "tactical rpg"], "categories": [], "languages": []}, "matched_games": 4233}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["single-player"], "languages": ["french"]}, "matched_games": 7340}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["norwegian", "simplified chinese"]}, "matched_games": 33942}
+{"filter": {"genres": [], "tags": [], "categories": ["mmo", "vr only"], "languages": []}, "matched_games": 7097}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["touch only option"], "languages": []}, "matched_games": 289}
+{"filter": {"genres": ["indie"], "tags": ["comedy"], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 1259}
+{"filter": {"genres": ["casual", "early access"], "tags": ["space"], "categories": [], "languages": []}, "matched_games": 1817}
+{"filter": {"genres": ["adventure", "simulation"], "tags": ["choices matter"], "categories": [], "languages": ["french", "norwegian"]}, "matched_games": 1052}
+{"filter": {"genres": ["casual"], "tags": [], "categories": ["co-op"], "languages": []}, "matched_games": 4072}
+{"filter": {"genres": ["action", "free to play"], "tags": [], "categories": [], "languages": []}, "matched_games": 53424}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["simplified chinese", "sindhi"]}, "matched_games": 33602}
+{"filter": {"genres": [], "tags": ["singleplayer"], "categories": ["online pvp", "surround sound"], "languages": []}, "matched_games": 2944}
+{"filter": {"genres": [], "tags": ["strategy"], "categories": [], "languages": ["english"]}, "matched_games": 17029}
+{"filter": {"genres": [], "tags": ["america", "first-person", "funny"], "categories": ["single-player"], "languages": ["croatian", "french", "german"]}, "matched_games": 7104}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["tigrinya", "turkish"]}, "matched_games": 6056}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements", "tracked controller support"], "languages": ["russian"]}, "matched_games": 18956}
+{"filter": {"genres": ["indie", "web publishing"], "tags": [], "categories": [], "languages": ["korean"]}, "matched_games": 13742}
+{"filter": {"genres": ["adventure"], "tags": ["minimalist", "singleplayer"], "categories": [], "languages": []}, "matched_games": 20993}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player"], "languages": ["polish"]}, "matched_games": 12780}
+{"filter": {"genres": [], "tags": [], "categories": ["custom volume controls", "pvp"], "languages": ["croatian", "japanese"]}, "matched_games": 5783}
+{"filter": {"genres": [], "tags": [], "categories": ["multi-player"], "languages": ["english"]}, "matched_games": 19656}
+{"filter": {"genres": ["action"], "tags": ["indie"], "categories": [], "languages": []}, "matched_games": 20898}
+{"filter": {"genres": [], "tags": ["tactical"], "categories": ["family sharing", "single-player", "stats"], "languages": ["welsh"]}, "matched_games": 52}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "shared/split screen co-op"], "languages": ["german", "korean"]}, "matched_games": 29624}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["french", "japanese"]}, "matched_games": 39500}
+{"filter": {"genres": ["action"], "tags": ["story rich"], "categories": ["single-player"], "languages": ["italian"]}, "matched_games": 1182}
+{"filter": {"genres": [], "tags": ["god game", "relaxing", "story rich"], "categories": [], "languages": []}, "matched_games": 21682}
+{"filter": {"genres": ["adventure", "indie"], "tags": [], "categories": [], "languages": ["simplified chinese", "yoruba"]}, "matched_games": 27309}
+{"filter": {"genres": ["action", "indie"], "tags": ["psychological horror"], "categories": [], "languages": []}, "matched_games": 5423}
+{"filter": {"genres": [], "tags": ["puzzle"], "categories": ["online pvp"], "languages": ["english"]}, "matched_games": 323}
+{"filter": {"genres": ["casual"], "tags": [], "categories": ["custom volume controls", "valve anti-cheat enabled"], "languages": ["telugu"]}, "matched_games": 114}
+{"filter": {"genres": ["rpg"], "tags": ["dungeon crawler", "linear"], "categories": ["multi-player"], "languages": []}, "matched_games": 317}
+{"filter": {"genres": ["casual"], "tags": ["combat"], "categories": ["full controller support"], "languages": ["romanian", "spanish - spain"]}, "matched_games": 177}
+{"filter": {"genres": ["adventure"], "tags": ["survival horror"], "categories": ["family sharing"], "languages": []}, "matched_games": 2190}
+{"filter": {"genres": ["action", "casual"], "tags": ["psychological", "top-down shooter"], "categories": [], "languages": ["italian"]}, "matched_games": 577}
+{"filter": {"genres": ["casual", "indie"], "tags": [], "categories": [], "languages": []}, "matched_games": 92377}
+{"filter": {"genres": ["action"], "tags": ["action", "looter shooter", "rogue-lite"], "categories": [], "languages": []}, "matched_games": 34126}
+{"filter": {"genres": [], "tags": ["surreal"], "categories": ["full controller support"], "languages": []}, "matched_games": 874}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["steam cloud"], "languages": []}, "matched_games": 12377}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": ["turkish"]}, "matched_games": 9594}
+{"filter": {"genres": [], "tags": ["hand-drawn", "underwater"], "categories": ["full controller support"], "languages": ["czech"]}, "matched_games": 93}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": [], "languages": ["thai"]}, "matched_games": 1382}
+{"filter": {"genres": ["rpg"], "tags": ["retro", "turn-based strategy"], "categories": [], "languages": []}, "matched_games": 2871}
+{"filter": {"genres": ["free to play"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 10248}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["polish", "spanish - spain"]}, "matched_games": 28945}
+{"filter": {"genres": ["indie"], "tags": ["simulation"], "categories": [], "languages": []}, "matched_games": 12359}
+{"filter": {"genres": ["adventure", "indie", "simulation"], "tags": ["rogue-lite"], "categories": ["single-player"], "languages": []}, "matched_games": 4036}
+{"filter": {"genres": ["casual"], "tags": ["2d"], "categories": [], "languages": ["bulgarian"]}, "matched_games": 736}
+{"filter": {"genres": ["casual"], "tags": ["hidden object"], "categories": [], "languages": []}, "matched_games": 2819}
+{"filter": {"genres": [], "tags": ["strategy"], "categories": ["co-op"], "languages": []}, "matched_games": 1766}
+{"filter": {"genres": [], "tags": [], "categories": ["shared/split screen", "single-player"], "languages": []}, "matched_games": 108846}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements"], "languages": ["spanish - spain"]}, "matched_games": 19133}
+{"filter": {"genres": ["adventure", "casual"], "tags": ["lovecraftian"], "categories": [], "languages": []}, "matched_games": 606}
+{"filter": {"genres": ["adventure", "strategy"], "tags": [], "categories": [], "languages": []}, "matched_games": 60902}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["multi-player", "steam achievements"], "languages": ["spanish - spain"]}, "matched_games": 9550}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements", "vr only"], "languages": []}, "matched_games": 60170}
+{"filter": {"genres": [], "tags": ["turn-based tactics"], "categories": ["steam cloud"], "languages": []}, "matched_games": 1230}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["japanese", "tswana"]}, "matched_games": 29122}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["japanese", "korean"]}, "matched_games": 30915}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["family sharing"], "languages": ["italian"]}, "matched_games": 12545}
+{"filter": {"genres": [], "tags": [], "categories": ["steam cloud", "steam trading cards"], "languages": []}, "matched_games": 35216}
+{"filter": {"genres": ["indie"], "tags": ["beautiful", "exploration"], "categories": [], "languages": []}, "matched_games": 10631}
+{"filter": {"genres": ["simulation"], "tags": ["co-op"], "categories": ["family sharing"], "languages": []}, "matched_games": 844}
+{"filter": {"genres": [], "tags": ["isometric"], "categories": ["family sharing"], "languages": []}, "matched_games": 2215}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["spanish - latin america"]}, "matched_games": 5387}
+{"filter": {"genres": [], "tags": [], "categories": ["steam leaderboards"], "languages": ["igbo", "tajik"]}, "matched_games": 225}
+{"filter": {"genres": [], "tags": ["indie"], "categories": ["save anytime"], "languages": []}, "matched_games": 527}
+{"filter": {"genres": [], "tags": [], "categories": ["co-op"], "languages": ["spanish - spain", "thai"]}, "matched_games": 4069}
+{"filter": {"genres": ["action", "adventure", "simulation"], "tags": [], "categories": [], "languages": []}, "matched_games": 83466}
+{"filter": {"genres": [], "tags": ["exploration", "pvp", "strategy"], "categories": [], "languages": ["estonian"]}, "matched_games": 300}
+{"filter": {"genres": ["casual", "violent"], "tags": [], "categories": [], "languages": []}, "matched_games": 50482}
+{"filter": {"genres": ["adventure", "simulation"], "tags": [], "categories": ["family sharing"], "languages": []}, "matched_games": 52882}
+{"filter": {"genres": [], "tags": ["surreal"], "categories": ["single-player"], "languages": ["spanish - latin america"]}, "matched_games": 293}
+{"filter": {"genres": [], "tags": ["3d", "dark", "game development"], "categories": [], "languages": []}, "matched_games": 22219}
+{"filter": {"genres": ["action", "indie"], "tags": [], "categories": ["steam leaderboards", "stereo sound"], "languages": []}, "matched_games": 11473}
+{"filter": {"genres": ["early access"], "tags": [], "categories": ["remote play together"], "languages": []}, "matched_games": 754}
+{"filter": {"genres": [], "tags": [], "categories": ["co-op", "steam trading cards"], "languages": []}, "matched_games": 20732}
+{"filter": {"genres": [], "tags": ["combat", "dating sim", "physics"], "categories": ["in-app purchases"], "languages": []}, "matched_games": 237}
+{"filter": {"genres": [], "tags": ["singleplayer"], "categories": ["full controller support"], "languages": []}, "matched_games": 13251}
+{"filter": {"genres": ["action", "adventure", "indie"], "tags": [], "categories": [], "languages": []}, "matched_games": 98543}
+{"filter": {"genres": ["indie"], "tags": ["adventure"], "categories": ["single-player"], "languages": ["arabic"]}, "matched_games": 945}
+{"filter": {"genres": [], "tags": ["massively multiplayer"], "categories": ["family sharing"], "languages": []}, "matched_games": 878}
+{"filter": {"genres": ["indie"], "tags": ["visual novel"], "categories": ["family sharing", "steam leaderboards"], "languages": []}, "matched_games": 3688}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["english", "spanish - latin america"]}, "matched_games": 77344}
+{"filter": {"genres": ["early access", "simulation"], "tags": [], "categories": [], "languages": []}, "matched_games": 32058}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": ["hindi"]}, "matched_games": 2151}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": [], "languages": ["k'iche'", "portuguese - brazil", "russian"]}, "matched_games": 6965}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["hungarian", "russian"]}, "matched_games": 27779}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": ["cross-platform multiplayer"], "languages": []}, "matched_games": 617}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["romanian"]}, "matched_games": 3925}
+{"filter": {"genres": [], "tags": ["online co-op"], "categories": ["steam achievements", "steam cloud"], "languages": []}, "matched_games": 2082}
+{"filter": {"genres": ["casual", "rpg"], "tags": ["martial arts"], "categories": ["steam achievements"], "languages": []}, "matched_games": 165}
+{"filter": {"genres": [], "tags": [], "categories": ["cross-platform multiplayer"], "languages": ["italian"]}, "matched_games": 1032}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "remote play together"], "languages": ["slovenian"]}, "matched_games": 1809}
+{"filter": {"genres": ["racing", "simulation"], "tags": [], "categories": ["online pvp", "single-player"], "languages": ["korean"]}, "matched_games": 5854}
+{"filter": {"genres": [], "tags": [], "categories": ["camera comfort", "vr supported"], "languages": []}, "matched_games": 3985}
+{"filter": {"genres": [], "tags": ["futuristic", "hack and slash", "indie"], "categories": [], "languages": ["german"]}, "matched_games": 12731}
+{"filter": {"genres": [], "tags": ["exploration", "modern"], "categories": ["shared/split screen"], "languages": []}, "matched_games": 410}
+{"filter": {"genres": ["indie"], "tags": ["difficult"], "categories": [], "languages": ["amharic"]}, "matched_games": 169}
+{"filter": {"genres": ["adventure"], "tags": ["2d platformer"], "categories": ["remote play together", "single-player"], "languages": ["italian"]}, "matched_games": 602}
+{"filter": {"genres": ["indie", "racing"], "tags": ["female protagonist"], "categories": [], "languages": ["dutch"]}, "matched_games": 242}
+{"filter": {"genres": [], "tags": [], "categories": ["co-op", "keyboard only option"], "languages": ["portuguese - portugal"]}, "matched_games": 1575}
+{"filter": {"genres": ["indie"], "tags": ["psychological"], "categories": ["partial controller support", "steam achievements"], "languages": []}, "matched_games": 961}
+{"filter": {"genres": [], "tags": ["1990's", "character customization", "rpg"], "categories": [], "languages": []}, "matched_games": 20944}
+{"filter": {"genres": ["indie", "rpg"], "tags": [], "categories": [], "languages": []}, "matched_games": 86428}
+{"filter": {"genres": ["massively multiplayer"], "tags": [], "categories": ["remote play together"], "languages": []}, "matched_games": 123}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": ["playable without timed input"], "languages": ["italian"]}, "matched_games": 491}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["family sharing"], "languages": ["greek"]}, "matched_games": 1632}
+{"filter": {"genres": ["adventure"], "tags": ["driving"], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 135}
+{"filter": {"genres": [], "tags": ["atmospheric", "colorful", "strategy"], "categories": [], "languages": []}, "matched_games": 39882}
+{"filter": {"genres": ["casual"], "tags": [], "categories": ["full controller support"], "languages": []}, "matched_games": 9089}
+{"filter": {"genres": ["action", "free to play"], "tags": ["dating sim", "retro"], "categories": [], "languages": ["korean"]}, "matched_games": 756}
+{"filter": {"genres": ["action", "simulation", "strategy"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 70657}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["in-app purchases"], "languages": []}, "matched_games": 1282}
+{"filter": {"genres": ["racing"], "tags": [], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 1261}
+{"filter": {"genres": [], "tags": ["dating sim", "local co-op", "music"], "categories": ["single-player"], "languages": []}, "matched_games": 5442}
+{"filter": {"genres": [], "tags": ["card game", "narrative"], "categories": [], "languages": ["russian"]}, "matched_games": 714}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": [], "languages": ["english"]}, "matched_games": 18676}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["partial controller support"], "languages": []}, "matched_games": 5776}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["sindhi", "thai"]}, "matched_games": 6040}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": [], "languages": ["basque"]}, "matched_games": 520}
+{"filter": {"genres": ["indie"], "tags": ["dungeon crawler"], "categories": ["single-player"], "languages": []}, "matched_games": 2128}
+{"filter": {"genres": [], "tags": ["indie", "puzzle-platformer"], "categories": [], "languages": []}, "matched_games": 50055}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": [], "languages": ["danish"]}, "matched_games": 1875}
+{"filter": {"genres": ["indie", "rpg"], "tags": ["realistic", "singleplayer"], "categories": ["family sharing"], "languages": []}, "matched_games": 36633}
+{"filter": {"genres": ["strategy"], "tags": ["solitaire"], "categories": [], "languages": []}, "matched_games": 250}
+{"filter": {"genres": [], "tags": [], "categories": ["pvp", "steam achievements"], "languages": ["tatar"]}, "matched_games": 1373}
+{"filter": {"genres": [], "tags": [], "categories": ["steam trading cards"], "languages": ["english"]}, "matched_games": 11276}
+{"filter": {"genres": ["free to play", "indie"], "tags": ["action-adventure", "third-person shooter"], "categories": [], "languages": ["sotho"]}, "matched_games": 56}
+{"filter": {"genres": ["indie", "simulation"], "tags": ["magic", "photo editing"], "categories": [], "languages": []}, "matched_games": 3039}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "single-player", "vr only"], "languages": ["tamil"]}, "matched_games": 1958}
+{"filter": {"genres": [], "tags": [], "categories": ["in-app purchases", "online pvp"], "languages": []}, "matched_games": 10179}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["russian", "spanish - spain"]}, "matched_games": 35560}
+{"filter": {"genres": ["action", "design & illustration", "indie"], "tags": ["casual", "dating sim"], "categories": ["vr supported"], "languages": []}, "matched_games": 301}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["sindhi"]}, "matched_games": 1523}
+{"filter": {"genres": [], "tags": ["hidden object", "racing"], "categories": ["single-player"], "languages": ["malay", "traditional chinese"]}, "matched_games": 1019}
+{"filter": {"genres": [], "tags": [], "categories": ["partial controller support", "pvp"], "languages": ["latvian", "nepali"]}, "matched_games": 161}
+{"filter": {"genres": [], "tags": [], "categories": ["shared/split screen pvp"], "languages": ["french"]}, "matched_games": 1657}
+{"filter": {"genres": ["indie", "strategy"], "tags": ["puzzle"], "categories": [], "languages": []}, "matched_games": 13376}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements"], "languages": ["luxembourgish"]}, "matched_games": 1363}
+{"filter": {"genres": [], "tags": ["multiplayer"], "categories": ["steam cloud"], "languages": ["turkish"]}, "matched_games": 550}
+{"filter": {"genres": [], "tags": [], "categories": ["shared/split screen co-op"], "languages": ["french", "simplified chinese"]}, "matched_games": 1939}
+{"filter": {"genres": [], "tags": [], "categories": ["multi-player"], "languages": ["german"]}, "matched_games": 7106}
+{"filter": {"genres": ["casual"], "tags": ["driving"], "categories": [], "languages": []}, "matched_games": 641}
+{"filter": {"genres": [], "tags": ["action", "logic"], "categories": [], "languages": []}, "matched_games": 40444}
+{"filter": {"genres": ["simulation"], "tags": ["simulation"], "categories": ["in-app purchases"], "languages": []}, "matched_games": 352}
+{"filter": {"genres": [], "tags": ["first-person"], "categories": ["family sharing", "full controller support", "steam achievements"], "languages": ["catalan"]}, "matched_games": 83}
+{"filter": {"genres": ["free to play"], "tags": [], "categories": ["remote play together"], "languages": ["spanish - spain"]}, "matched_games": 85}
+{"filter": {"genres": [], "tags": [], "categories": ["full controller support"], "languages": ["polish"]}, "matched_games": 3986}
+{"filter": {"genres": [], "tags": ["dungeon crawler"], "categories": [], "languages": ["english"]}, "matched_games": 2732}
+{"filter": {"genres": [], "tags": ["horror", "interactive fiction"], "categories": [], "languages": []}, "matched_games": 12249}
+{"filter": {"genres": ["adventure"], "tags": ["puzzle"], "categories": [], "languages": ["japanese", "tigrinya", "welsh"]}, "matched_games": 2295}
+{"filter": {"genres": [], "tags": ["historical"], "categories": [], "languages": ["danish", "maltese", "portuguese - brazil"]}, "matched_games": 440}
+{"filter": {"genres": [], "tags": ["minimalist", "tactical rpg"], "categories": [], "languages": ["arabic"]}, "matched_games": 545}
+{"filter": {"genres": ["indie"], "tags": ["2d"], "categories": [], "languages": ["belarusian", "english"]}, "matched_games": 19728}
+{"filter": {"genres": [], "tags": ["moddable", "strategy"], "categories": ["in-app purchases", "single-player"], "languages": ["kinyarwanda"]}, "matched_games": 188}
+{"filter": {"genres": [], "tags": ["agriculture", "horror", "soundtrack"], "categories": [], "languages": []}, "matched_games": 11126}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["english", "portuguese - brazil", "swedish"]}, "matched_games": 109167}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["arabic"]}, "matched_games": 4156}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["steam achievements"], "languages": ["japanese", "spanish - latin america"]}, "matched_games": 14495}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["family sharing", "single-player"], "languages": ["english"]}, "matched_games": 76107}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["english", "simplified chinese"]}, "matched_games": 112031}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 23445}
+{"filter": {"genres": ["action", "indie", "simulation"], "tags": [], "categories": ["vr supported"], "languages": ["portuguese - brazil"]}, "matched_games": 126}
+{"filter": {"genres": ["adventure", "indie"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 88202}
+{"filter": {"genres": ["casual"], "tags": ["gore"], "categories": [], "languages": []}, "matched_games": 736}
+{"filter": {"genres": ["simulation"], "tags": ["colorful", "physics", "rpg"], "categories": ["family sharing"], "languages": []}, "matched_games": 6315}
+{"filter": {"genres": ["casual", "sports"], "tags": [], "categories": ["custom volume controls", "stats"], "languages": []}, "matched_games": 5234}
+{"filter": {"genres": [], "tags": ["controller", "third person"], "categories": [], "languages": ["valencian"]}, "matched_games": 77}
+{"filter": {"genres": ["casual", "simulation"], "tags": [], "categories": [], "languages": ["slovenian", "spanish - spain"]}, "matched_games": 15724}
+{"filter": {"genres": [], "tags": ["colorful", "simulation"], "categories": [], "languages": ["english"]}, "matched_games": 28439}
+{"filter": {"genres": ["casual"], "tags": ["local co-op"], "categories": [], "languages": []}, "matched_games": 1000}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": ["persian"]}, "matched_games": 1832}
+{"filter": {"genres": ["indie"], "tags": ["relaxing"], "categories": [], "languages": []}, "matched_games": 7062}
+{"filter": {"genres": ["indie"], "tags": ["immersive sim", "survival", "time attack"], "categories": [], "languages": ["luxembourgish"]}, "matched_games": 70}
+{"filter": {"genres": ["indie", "simulation"], "tags": [], "categories": ["family sharing"], "languages": ["sindhi"]}, "matched_games": 1476}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["stereo sound"], "languages": ["mongolian"]}, "matched_games": 211}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["custom volume controls"], "languages": []}, "matched_games": 4919}
+{"filter": {"genres": [], "tags": [], "categories": ["custom volume controls"], "languages": ["czech", "dutch", "french"]}, "matched_games": 2808}
+{"filter": {"genres": ["action", "strategy"], "tags": [], "categories": [], "languages": []}, "matched_games": 62227}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "vr supported"], "languages": []}, "matched_games": 96154}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["co-op", "multi-player"], "languages": []}, "matched_games": 12192}
+{"filter": {"genres": ["action"], "tags": ["team-based"], "categories": [], "languages": ["traditional chinese"]}, "matched_games": 176}
+{"filter": {"genres": ["action"], "tags": ["horror", "vr"], "categories": ["in-app purchases", "remote play on tv"], "languages": ["german"]}, "matched_games": 198}
+{"filter": {"genres": [], "tags": [], "categories": ["adjustable difficulty", "vr only"], "languages": ["lithuanian"]}, "matched_games": 87}
+{"filter": {"genres": [], "tags": [], "categories": ["multi-player", "partial controller support", "steam achievements"], "languages": ["italian"]}, "matched_games": 16313}
+{"filter": {"genres": [], "tags": [], "categories": ["pvp"], "languages": ["korean", "polish"]}, "matched_games": 2954}
+{"filter": {"genres": ["adventure"], "tags": ["horror", "isometric", "pixel graphics"], "categories": [], "languages": ["sinhala"]}, "matched_games": 104}
+{"filter": {"genres": ["indie"], "tags": ["space sim"], "categories": ["family sharing", "single-player", "steam leaderboards"], "languages": []}, "matched_games": 650}
+{"filter": {"genres": ["casual", "utilities"], "tags": ["colorful"], "categories": ["family sharing", "single-player"], "languages": []}, "matched_games": 8224}
+{"filter": {"genres": ["rpg"], "tags": ["fishing"], "categories": [], "languages": []}, "matched_games": 168}
+{"filter": {"genres": ["early access"], "tags": [], "categories": ["partial controller support", "steam achievements"], "languages": []}, "matched_games": 4471}
+{"filter": {"genres": [], "tags": ["singleplayer"], "categories": [], "languages": ["traditional chinese"]}, "matched_games": 8275}
+{"filter": {"genres": ["action", "simulation"], "tags": [], "categories": ["single-player"], "languages": []}, "matched_games": 60541}
+{"filter": {"genres": [], "tags": ["nonlinear", "souls-like"], "categories": [], "languages": ["danish", "dutch"]}, "matched_games": 138}
+{"filter": {"genres": ["strategy"], "tags": ["psychological"], "categories": ["family sharing"], "languages": []}, "matched_games": 142}
+{"filter": {"genres": ["casual", "strategy"], "tags": [], "categories": ["mouse only option"], "languages": []}, "matched_games": 2327}
+{"filter": {"genres": ["early access", "massively multiplayer"], "tags": [], "categories": [], "languages": []}, "matched_games": 12987}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["shared/split screen pvp"], "languages": []}, "matched_games": 3665}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["family sharing", "remote play together", "save anytime"], "languages": ["xhosa"]}, "matched_games": 1409}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["single-player", "tracked controller support"], "languages": []}, "matched_games": 44228}
+{"filter": {"genres": [], "tags": ["indie", "shooter", "side scroller"], "categories": [], "languages": ["korean"]}, "matched_games": 8174}
+{"filter": {"genres": [], "tags": ["action", "precision platformer", "vr"], "categories": [], "languages": []}, "matched_games": 40364}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": ["kinyarwanda"]}, "matched_games": 1747}
+{"filter": {"genres": ["casual", "early access"], "tags": ["puzzle"], "categories": ["stereo sound"], "languages": []}, "matched_games": 206}
+{"filter": {"genres": [], "tags": ["cute", "vr"], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 6222}
+{"filter": {"genres": [], "tags": ["boomer shooter", "classic", "local multiplayer"], "categories": [], "languages": ["french", "spanish - latin america"]}, "matched_games": 2078}
+{"filter": {"genres": [], "tags": [], "categories": ["cross-platform multiplayer", "family sharing", "partial controller support"], "languages": []}, "matched_games": 98807}
+{"filter": {"genres": ["casual"], "tags": ["cricket", "female protagonist"], "categories": [], "languages": []}, "matched_games": 2699}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["spanish - spain", "ukrainian"]}, "matched_games": 28205}
+{"filter": {"genres": ["indie"], "tags": ["bullet hell", "resource management"], "categories": ["family sharing", "single-player"], "languages": []}, "matched_games": 5111}
+{"filter": {"genres": [], "tags": ["tactical rpg"], "categories": ["shared/split screen pvp", "steam cloud"], "languages": ["simplified chinese"]}, "matched_games": 309}
+{"filter": {"genres": [], "tags": [], "categories": ["partial controller support", "remote play together", "steam achievements"], "languages": []}, "matched_games": 64035}
+{"filter": {"genres": [], "tags": ["open world", "sci-fi"], "categories": [], "languages": ["malayalam", "simplified chinese"]}, "matched_games": 4115}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "multi-player"], "languages": []}, "matched_games": 100655}
+{"filter": {"genres": ["action"], "tags": ["indie", "point & click"], "categories": [], "languages": ["german", "polish"]}, "matched_games": 5080}
+{"filter": {"genres": ["action", "adventure", "early access"], "tags": [], "categories": [], "languages": ["japanese", "korean"]}, "matched_games": 19864}
+{"filter": {"genres": [], "tags": [], "categories": ["full controller support", "shared/split screen co-op"], "languages": []}, "matched_games": 27067}
+{"filter": {"genres": [], "tags": ["point & click"], "categories": [], "languages": ["tswana"]}, "matched_games": 70}
+{"filter": {"genres": ["indie"], "tags": ["fighting"], "categories": [], "languages": []}, "matched_games": 784}
+{"filter": {"genres": [], "tags": ["mystery"], "categories": ["full controller support"], "languages": ["polish"]}, "matched_games": 281}
+{"filter": {"genres": [], "tags": [], "categories": ["co-op"], "languages": ["tswana"]}, "matched_games": 62}
+{"filter": {"genres": [], "tags": ["drama"], "categories": ["single-player"], "languages": ["english"]}, "matched_games": 2619}
+{"filter": {"genres": [], "tags": ["multiplayer"], "categories": ["full controller support", "includes level editor"], "languages": []}, "matched_games": 3634}
+{"filter": {"genres": [], "tags": [], "categories": ["camera comfort", "steam cloud"], "languages": []}, "matched_games": 31311}
+{"filter": {"genres": ["free to play"], "tags": [], "categories": ["stereo sound"], "languages": []}, "matched_games": 367}
+{"filter": {"genres": ["action"], "tags": ["villain protagonist"], "categories": [], "languages": []}, "matched_games": 114}
+{"filter": {"genres": ["action"], "tags": ["abstract"], "categories": [], "languages": []}, "matched_games": 659}
+{"filter": {"genres": ["action"], "tags": [], "categories": [], "languages": ["azerbaijani", "xhosa"]}, "matched_games": 631}
+{"filter": {"genres": [], "tags": ["cyberpunk"], "categories": [], "languages": ["bulgarian", "norwegian"]}, "matched_games": 54}
+{"filter": {"genres": [], "tags": ["logic", "vampire"], "categories": [], "languages": ["yoruba"]}, "matched_games": 93}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements"], "languages": ["dutch"]}, "matched_games": 5475}
+{"filter": {"genres": [], "tags": ["building"], "categories": ["mouse only option"], "languages": []}, "matched_games": 102}
+{"filter": {"genres": ["casual"], "tags": [], "categories": ["family sharing", "single-player", "steam cloud"], "languages": []}, "matched_games": 49327}
+{"filter": {"genres": [], "tags": ["isometric", "mini golf"], "categories": [], "languages": ["finnish", "italian"]}, "matched_games": 670}
+{"filter": {"genres": ["indie"], "tags": ["story rich"], "categories": ["family sharing"], "languages": ["japanese"]}, "matched_games": 2433}
+{"filter": {"genres": ["indie"], "tags": ["puzzle-platformer"], "categories": ["steam achievements"], "languages": []}, "matched_games": 2173}
+{"filter": {"genres": [], "tags": ["indie"], "categories": ["family sharing"], "languages": []}, "matched_games": 43695}
+{"filter": {"genres": ["simulation"], "tags": ["story rich"], "categories": ["steam achievements"], "languages": ["simplified chinese"]}, "matched_games": 595}
+{"filter": {"genres": ["adventure"], "tags": ["4 player local", "rts"], "categories": ["multi-player", "steam achievements"], "languages": ["georgian", "portuguese - brazil", "vietnamese"]}, "matched_games": 113}
+{"filter": {"genres": [], "tags": ["funny"], "categories": ["camera comfort", "steam achievements"], "languages": []}, "matched_games": 6102}
+{"filter": {"genres": [], "tags": ["atmospheric"], "categories": [], "languages": ["ukrainian"]}, "matched_games": 1211}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["dari", "russian"]}, "matched_games": 27536}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": ["pvp", "single-player"], "languages": []}, "matched_games": 22179}
+{"filter": {"genres": [], "tags": ["1980s", "science"], "categories": ["tracked controller support"], "languages": []}, "matched_games": 128}
+{"filter": {"genres": [], "tags": ["turn-based tactics"], "categories": ["multi-player", "steam achievements"], "languages": []}, "matched_games": 2097}
+{"filter": {"genres": ["action"], "tags": ["atmospheric"], "categories": [], "languages": []}, "matched_games": 6624}
+{"filter": {"genres": [], "tags": ["driving"], "categories": ["pvp", "shared/split screen co-op", "single-player"], "languages": []}, "matched_games": 1686}
+{"filter": {"genres": ["indie"], "tags": ["family friendly", "sexual content"], "categories": ["single-player"], "languages": []}, "matched_games": 8162}
+{"filter": {"genres": [], "tags": [], "categories": ["playable without timed input", "remote play on tv"], "languages": ["marathi", "portuguese - brazil"]}, "matched_games": 2961}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["full controller support", "stats"], "languages": []}, "matched_games": 21922}
+{"filter": {"genres": [], "tags": [], "categories": ["multi-player", "steam achievements", "touch only option"], "languages": ["hungarian"]}, "matched_games": 4331}
+{"filter": {"genres": [], "tags": ["cute"], "categories": [], "languages": ["simplified chinese"]}, "matched_games": 4994}
+{"filter": {"genres": ["early access"], "tags": [], "categories": ["steam trading cards"], "languages": []}, "matched_games": 355}
+{"filter": {"genres": ["free to play"], "tags": ["action"], "categories": [], "languages": []}, "matched_games": 2245}
+{"filter": {"genres": ["adventure"], "tags": ["cute", "point & click"], "categories": [], "languages": ["japanese", "slovak"]}, "matched_games": 2715}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["steam achievements"], "languages": ["spanish - spain"]}, "matched_games": 13854}
+{"filter": {"genres": [], "tags": ["bullet hell", "character customization", "education"], "categories": [], "languages": []}, "matched_games": 10154}
+{"filter": {"genres": ["indie"], "tags": ["action-adventure", "skiing", "utilities"], "categories": [], "languages": ["hindi", "japanese"]}, "matched_games": 2092}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["portuguese - portugal", "russian"]}, "matched_games": 28970}
+{"filter": {"genres": [], "tags": ["simulation"], "categories": [], "languages": ["russian"]}, "matched_games": 5138}
+{"filter": {"genres": ["strategy"], "tags": ["action roguelike", "turn-based"], "categories": [], "languages": ["icelandic", "italian"]}, "matched_games": 421}
+{"filter": {"genres": ["adventure"], "tags": ["medieval"], "categories": ["family sharing", "vr supported"], "languages": ["amharic", "traditional chinese"]}, "matched_games": 206}
+{"filter": {"genres": ["indie"], "tags": ["controller", "hack and slash"], "categories": [], "languages": ["thai"]}, "matched_games": 290}
+{"filter": {"genres": ["casual"], "tags": ["post-apocalyptic"], "categories": ["family sharing"], "languages": ["english"]}, "matched_games": 490}
+{"filter": {"genres": ["adventure"], "tags": ["runner"], "categories": [], "languages": []}, "matched_games": 678}
+{"filter": {"genres": ["action"], "tags": ["jet"], "categories": ["steam achievements", "steam cloud"], "languages": ["english"]}, "matched_games": 72}
+{"filter": {"genres": [], "tags": ["casual", "post-apocalyptic"], "categories": [], "languages": ["french", "spanish - spain"]}, "matched_games": 11312}
+{"filter": {"genres": ["gore"], "tags": [], "categories": ["steam achievements"], "languages": []}, "matched_games": 89}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["save anytime"], "languages": []}, "matched_games": 1185}
+{"filter": {"genres": ["casual", "rpg"], "tags": ["fps", "roguevania"], "categories": [], "languages": []}, "matched_games": 1794}
+{"filter": {"genres": [], "tags": [], "categories": ["mouse only option"], "languages": ["swedish"]}, "matched_games": 557}
+{"filter": {"genres": [], "tags": ["action", "investigation"], "categories": [], "languages": []}, "matched_games": 38587}
+{"filter": {"genres": ["adventure"], "tags": ["family friendly"], "categories": [], "languages": ["sindhi"]}, "matched_games": 113}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["portuguese - brazil", "welsh"]}, "matched_games": 8562}
+{"filter": {"genres": [], "tags": [], "categories": ["online co-op", "single-player"], "languages": ["simplified chinese"]}, "matched_games": 32469}
+{"filter": {"genres": ["casual"], "tags": ["rpg"], "categories": ["family sharing", "online pvp"], "languages": ["english", "lithuanian", "maltese"]}, "matched_games": 3578}
+{"filter": {"genres": ["action", "adventure"], "tags": ["rpgmaker"], "categories": [], "languages": []}, "matched_games": 1049}
+{"filter": {"genres": [], "tags": ["moba", "point & click"], "categories": [], "languages": []}, "matched_games": 5736}
+{"filter": {"genres": ["casual"], "tags": ["surreal", "top-down"], "categories": ["remote play on tv"], "languages": ["spanish - spain"]}, "matched_games": 56}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements"], "languages": ["tatar"]}, "matched_games": 1345}
+{"filter": {"genres": ["indie"], "tags": ["pve"], "categories": ["single-player"], "languages": []}, "matched_games": 3565}
+{"filter": {"genres": ["indie"], "tags": ["3d vision", "artificial intelligence"], "categories": ["multi-player"], "languages": ["german", "spanish - spain"]}, "matched_games": 103}
+{"filter": {"genres": [], "tags": ["combat racing", "gothic"], "categories": [], "languages": []}, "matched_games": 1198}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements"], "languages": ["konkani"]}, "matched_games": 1336}
+{"filter": {"genres": [], "tags": ["2d"], "categories": [], "languages": ["simplified chinese", "thai"]}, "matched_games": 8340}
+{"filter": {"genres": ["early access", "sports"], "tags": [], "categories": [], "languages": []}, "matched_games": 15376}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["family sharing", "partial controller support", "vr only"], "languages": []}, "matched_games": 40121}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["vr only"], "languages": []}, "matched_games": 1879}
+{"filter": {"genres": ["free to play"], "tags": ["adventure"], "categories": ["in-app purchases"], "languages": []}, "matched_games": 249}
+{"filter": {"genres": ["simulation"], "tags": ["1980s", "parkour", "score attack"], "categories": [], "languages": ["english"]}, "matched_games": 807}
+{"filter": {"genres": ["sports"], "tags": [], "categories": ["online co-op", "shared/split screen co-op"], "languages": []}, "matched_games": 709}
+{"filter": {"genres": [], "tags": ["first-person"], "categories": [], "languages": ["traditional chinese"]}, "matched_games": 1548}
+{"filter": {"genres": [], "tags": ["life sim"], "categories": ["online pvp", "single-player"], "languages": []}, "matched_games": 2050}
+{"filter": {"genres": ["indie", "massively multiplayer"], "tags": [], "categories": ["family sharing"], "languages": []}, "matched_games": 69556}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["family sharing"], "languages": ["korean", "turkish"]}, "matched_games": 7960}
+{"filter": {"genres": [], "tags": ["magic", "short"], "categories": [], "languages": ["bosnian"]}, "matched_games": 129}
+{"filter": {"genres": ["indie", "rpg", "sports"], "tags": [], "categories": [], "languages": []}, "matched_games": 88032}
+{"filter": {"genres": [], "tags": ["singleplayer"], "categories": ["custom volume controls"], "languages": ["portuguese - portugal"]}, "matched_games": 252}
+{"filter": {"genres": [], "tags": ["action rpg"], "categories": ["steam leaderboards", "steam trading cards"], "languages": []}, "matched_games": 821}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["estonian", "ukrainian"]}, "matched_games": 7273}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["family sharing"], "languages": ["german"]}, "matched_games": 10957}
+{"filter": {"genres": ["action"], "tags": [], "categories": ["single-player"], "languages": ["italian"]}, "matched_games": 8262}
+{"filter": {"genres": ["adventure", "indie", "sports"], "tags": ["singleplayer"], "categories": ["mmo", "online pvp", "single-player"], "languages": []}, "matched_games": 41111}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["bosnian", "german"]}, "matched_games": 29715}
+{"filter": {"genres": [], "tags": ["choices matter", "interactive fiction", "third person"], "categories": ["shared/split screen co-op", "stats"], "languages": []}, "matched_games": 877}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": [], "languages": ["finnish"]}, "matched_games": 1125}
+{"filter": {"genres": ["game development", "rpg"], "tags": ["board game", "short"], "categories": ["steam cloud"], "languages": ["italian"]}, "matched_games": 47}
+{"filter": {"genres": [], "tags": [], "categories": ["playable without timed input"], "languages": ["icelandic", "xhosa"]}, "matched_games": 362}
+{"filter": {"genres": ["free to play", "indie"], "tags": [], "categories": [], "languages": []}, "matched_games": 84580}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player", "steam trading cards"], "languages": ["dutch"]}, "matched_games": 7704}
+{"filter": {"genres": ["casual"], "tags": ["exploration", "tactical rpg"], "categories": ["family sharing", "single-player"], "languages": ["italian", "latvian"]}, "matched_games": 989}
+{"filter": {"genres": ["indie", "rpg"], "tags": [], "categories": ["full controller support"], "languages": []}, "matched_games": 20537}
+{"filter": {"genres": ["education", "sports", "web publishing"], "tags": ["early access"], "categories": [], "languages": []}, "matched_games": 665}
+{"filter": {"genres": [], "tags": ["open world"], "categories": ["family sharing"], "languages": []}, "matched_games": 5354}
+{"filter": {"genres": [], "tags": [], "categories": ["partial controller support"], "languages": ["turkish"]}, "matched_games": 1058}
+{"filter": {"genres": [], "tags": ["strategy rpg"], "categories": [], "languages": ["japanese"]}, "matched_games": 489}
+{"filter": {"genres": ["action", "indie"], "tags": ["action roguelike"], "categories": [], "languages": ["english", "traditional chinese"]}, "matched_games": 3377}
+{"filter": {"genres": [], "tags": [], "categories": ["playable without timed input", "steam cloud"], "languages": []}, "matched_games": 33408}
+{"filter": {"genres": ["rpg", "sports"], "tags": [], "categories": [], "languages": ["turkish"]}, "matched_games": 2162}
+{"filter": {"genres": ["casual", "early access"], "tags": ["action-adventure"], "categories": [], "languages": []}, "matched_games": 3610}
+{"filter": {"genres": [], "tags": ["adventure"], "categories": ["family sharing", "full controller support", "shared/split screen"], "languages": []}, "matched_games": 32848}
+{"filter": {"genres": ["adventure"], "tags": ["survival"], "categories": ["pvp", "save anytime", "shared/split screen"], "languages": []}, "matched_games": 529}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["dutch", "french"]}, "matched_games": 29703}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": ["sinhala"]}, "matched_games": 1756}
+{"filter": {"genres": [], "tags": [], "categories": ["multi-player", "steam achievements"], "languages": []}, "matched_games": 65935}
+{"filter": {"genres": [], "tags": [], "categories": ["color alternatives", "steam achievements"], "languages": []}, "matched_games": 56024}
+{"filter": {"genres": ["casual"], "tags": ["surreal"], "categories": [], "languages": ["danish", "hindi", "portuguese - portugal"]}, "matched_games": 102}
+{"filter": {"genres": ["indie"], "tags": ["hand-drawn"], "categories": ["single-player"], "languages": []}, "matched_games": 3544}
+{"filter": {"genres": [], "tags": ["action rpg", "cats"], "categories": [], "languages": []}, "matched_games": 5386}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["luxembourgish"]}, "matched_games": 1550}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": ["steam trading cards"], "languages": ["english", "turkish"]}, "matched_games": 5052}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": [], "languages": ["spanish - spain"]}, "matched_games": 11218}
+{"filter": {"genres": ["animation & modeling", "massively multiplayer"], "tags": [], "categories": [], "languages": []}, "matched_games": 3000}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": ["family sharing", "single-player"], "languages": ["swedish"]}, "matched_games": 1315}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["greek", "korean", "russian"]}, "matched_games": 23075}
+{"filter": {"genres": [], "tags": [], "categories": ["save anytime"], "languages": ["french"]}, "matched_games": 1601}
+{"filter": {"genres": ["indie"], "tags": [], "categories": [], "languages": ["hungarian"]}, "matched_games": 4374}
+{"filter": {"genres": ["casual"], "tags": [], "categories": ["steam leaderboards"], "languages": []}, "matched_games": 4524}
+{"filter": {"genres": [], "tags": [], "categories": ["co-op", "partial controller support"], "languages": []}, "matched_games": 22609}
+{"filter": {"genres": [], "tags": ["dark", "horror", "sokoban"], "categories": [], "languages": []}, "matched_games": 12872}
+{"filter": {"genres": [], "tags": [], "categories": ["steam achievements"], "languages": ["maori"]}, "matched_games": 1351}
+{"filter": {"genres": [], "tags": ["puzzle", "stealth"], "categories": [], "languages": []}, "matched_games": 18025}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["single-player"], "languages": ["german"]}, "matched_games": 19281}
+{"filter": {"genres": [], "tags": ["linear", "physics"], "categories": ["keyboard only option", "surround sound"], "languages": ["french", "khmer"]}, "matched_games": 94}
+{"filter": {"genres": [], "tags": ["singleplayer"], "categories": ["co-op", "steam cloud", "steam trading cards"], "languages": []}, "matched_games": 20403}
+{"filter": {"genres": [], "tags": [], "categories": ["pvp", "shared/split screen", "steam cloud"], "languages": []}, "matched_games": 41490}
+{"filter": {"genres": [], "tags": ["cartoon", "shooter", "survival horror"], "categories": ["in-app purchases", "online pvp"], "languages": ["thai"]}, "matched_games": 101}
+{"filter": {"genres": ["casual", "indie", "simulation"], "tags": [], "categories": [], "languages": ["tswana"]}, "matched_games": 1829}
+{"filter": {"genres": ["indie"], "tags": [], "categories": ["family sharing", "full controller support", "single-player"], "languages": []}, "matched_games": 79480}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["danish", "english", "kannada"]}, "matched_games": 109081}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": [], "languages": ["belarusian", "english"]}, "matched_games": 18676}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["odia", "simplified chinese"]}, "matched_games": 33602}
+{"filter": {"genres": [], "tags": [], "categories": ["steam trading cards"], "languages": ["icelandic"]}, "matched_games": 99}
+{"filter": {"genres": ["rpg"], "tags": [], "categories": ["pvp"], "languages": ["russian"]}, "matched_games": 508}
+{"filter": {"genres": ["adventure"], "tags": [], "categories": [], "languages": ["tamil"]}, "matched_games": 753}
+{"filter": {"genres": [], "tags": [], "categories": ["surround sound"], "languages": ["japanese", "korean"]}, "matched_games": 501}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": ["hebrew"]}, "matched_games": 1874}
+{"filter": {"genres": ["adventure", "simulation"], "tags": [], "categories": [], "languages": []}, "matched_games": 61244}
+{"filter": {"genres": ["adventure", "indie"], "tags": ["battle royale"], "categories": [], "languages": []}, "matched_games": 447}
+{"filter": {"genres": ["free to play"], "tags": [], "categories": ["stats"], "languages": []}, "matched_games": 570}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["dari", "polish", "slovak"]}, "matched_games": 13484}
+{"filter": {"genres": ["free to play"], "tags": ["dark"], "categories": [], "languages": []}, "matched_games": 307}
+{"filter": {"genres": ["casual", "indie", "strategy"], "tags": ["remake"], "categories": [], "languages": ["japanese"]}, "matched_games": 78}
+{"filter": {"genres": [], "tags": ["2d", "colony sim", "turn-based combat"], "categories": [], "languages": []}, "matched_games": 28748}
+{"filter": {"genres": ["action", "indie", "massively multiplayer"], "tags": ["immersive"], "categories": ["single-player"], "languages": ["english"]}, "matched_games": 306}
+{"filter": {"genres": ["casual", "strategy"], "tags": [], "categories": [], "languages": ["azerbaijani", "spanish - spain"]}, "matched_games": 15573}
+{"filter": {"genres": [], "tags": [], "categories": ["keyboard only option", "lan pvp", "remote play together"], "languages": ["tamil"]}, "matched_games": 112}
+{"filter": {"genres": [], "tags": [], "categories": ["custom volume controls", "family sharing", "steam cloud"], "languages": []}, "matched_games": 98695}
+{"filter": {"genres": [], "tags": [], "categories": ["multi-player"], "languages": ["portuguese - brazil"]}, "matched_games": 3958}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "steam achievements"], "languages": ["traditional chinese"]}, "matched_games": 16479}
+{"filter": {"genres": ["indie"], "tags": ["dark", "jrpg"], "categories": ["online co-op"], "languages": []}, "matched_games": 304}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": [], "languages": ["kazakh"]}, "matched_games": 512}
+{"filter": {"genres": [], "tags": ["pixel graphics"], "categories": [], "languages": ["english", "italian"]}, "matched_games": 13341}
+{"filter": {"genres": [], "tags": ["management"], "categories": ["full controller support", "steam achievements"], "languages": []}, "matched_games": 2687}
+{"filter": {"genres": [], "tags": [], "categories": [], "languages": ["belarusian", "japanese"]}, "matched_games": 29144}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing"], "languages": ["english"]}, "matched_games": 92055}
+{"filter": {"genres": ["adventure", "indie"], "tags": [], "categories": [], "languages": ["simplified chinese", "traditional chinese"]}, "matched_games": 28410}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player"], "languages": ["greek", "ukrainian"]}, "matched_games": 7359}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "stats"], "languages": []}, "matched_games": 96620}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player"], "languages": ["german", "tatar"]}, "matched_games": 28171}
+{"filter": {"genres": [], "tags": ["realistic"], "categories": [], "languages": ["italian", "simplified chinese", "welsh"]}, "matched_games": 2529}
+{"filter": {"genres": ["indie"], "tags": ["heist"], "categories": [], "languages": ["german"]}, "matched_games": 62}
+{"filter": {"genres": [], "tags": ["vr"], "categories": ["remote play together"], "languages": []}, "matched_games": 206}
+{"filter": {"genres": ["rpg", "video production"], "tags": [], "categories": ["stereo sound"], "languages": ["german"]}, "matched_games": 296}
+{"filter": {"genres": [], "tags": ["1990's", "tabletop"], "categories": [], "languages": []}, "matched_games": 4957}
+{"filter": {"genres": [], "tags": ["adventure", "naval combat", "strategy"], "categories": [], "languages": []}, "matched_games": 48052}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player"], "languages": ["mongolian"]}, "matched_games": 1948}
+{"filter": {"genres": [], "tags": ["funny", "vr"], "categories": [], "languages": []}, "matched_games": 15207}
+{"filter": {"genres": ["indie", "massively multiplayer"], "tags": [], "categories": ["pvp", "tracked controller support"], "languages": ["french", "latvian"]}, "matched_games": 3119}
+{"filter": {"genres": [], "tags": ["action-adventure", "logic"], "categories": [], "languages": ["khmer"]}, "matched_games": 156}
+{"filter": {"genres": [], "tags": ["puzzle-platformer"], "categories": [], "languages": ["german", "hungarian", "simplified chinese"]}, "matched_games": 1722}
+{"filter": {"genres": ["indie"], "tags": ["classic", "text-based"], "categories": [], "languages": []}, "matched_games": 2327}
+{"filter": {"genres": [], "tags": ["colorful"], "categories": ["family sharing", "single-player", "steam achievements"], "languages": ["bangla", "japanese", "simplified chinese"]}, "matched_games": 4960}
+{"filter": {"genres": [], "tags": [], "categories": ["family sharing", "steam cloud"], "languages": ["japanese", "russian"]}, "matched_games": 35798}
+{"filter": {"genres": ["strategy"], "tags": [], "categories": ["color alternatives", "steam leaderboards"], "languages": []}, "matched_games": 2221}
+{"filter": {"genres": [], "tags": ["puzzle"], "categories": ["family sharing"], "languages": ["korean"]}, "matched_games": 3280}
+{"filter": {"genres": [], "tags": ["pvp"], "categories": [], "languages": ["german", "korean"]}, "matched_games": 1934}
+{"filter": {"genres": ["action", "indie"], "tags": [], "categories": ["online pvp", "steam cloud"], "languages": []}, "matched_games": 30723}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["japanese", "malay", "polish"]}, "matched_games": 14441}
+{"filter": {"genres": ["indie", "simulation"], "tags": ["historical"], "categories": [], "languages": ["bulgarian"]}, "matched_games": 43}
+{"filter": {"genres": ["racing", "simulation"], "tags": [], "categories": [], "languages": []}, "matched_games": 26594}
+{"filter": {"genres": [], "tags": [], "categories": ["cross-platform multiplayer", "steam cloud"], "languages": []}, "matched_games": 32578}
+{"filter": {"genres": ["casual"], "tags": [], "categories": [], "languages": ["english", "italian", "turkish"]}, "matched_games": 48026}
+{"filter": {"genres": ["action", "indie", "violent"], "tags": [], "categories": [], "languages": ["italian"]}, "matched_games": 16517}
+{"filter": {"genres": [], "tags": ["ambient"], "categories": ["full controller support", "online pvp", "single-player"], "languages": []}, "matched_games": 106}
+{"filter": {"genres": ["action", "indie"], "tags": ["3d", "rpg", "turn-based"], "categories": [], "languages": []}, "matched_games": 26669}
+{"filter": {"genres": ["simulation"], "tags": [], "categories": ["cross-platform multiplayer", "family sharing"], "languages": ["uzbek"]}, "matched_games": 600}
+{"filter": {"genres": [], "tags": ["strategy"], "categories": [], "languages": ["luxembourgish"]}, "matched_games": 187}
+{"filter": {"genres": ["casual"], "tags": [], "categories": ["steam achievements"], "languages": []}, "matched_games": 25330}
+{"filter": {"genres": ["indie"], "tags": ["indie"], "categories": ["single-player"], "languages": []}, "matched_games": 44493}
+{"filter": {"genres": ["action", "adventure", "indie"], "tags": ["gothic", "hand-drawn"], "categories": [], "languages": ["portuguese - brazil"]}, "matched_games": 945}
+{"filter": {"genres": [], "tags": [], "categories": ["single-player", "steam leaderboards"], "languages": ["italian"]}, "matched_games": 19559}
+{"filter": {"genres": ["early access", "rpg"], "tags": [], "categories": ["steam cloud", "steam trading cards"], "languages": []}, "matched_games": 9871}
+{"filter": {"genres": [], "tags": ["multiplayer"], "categories": ["single-player", "stereo sound"], "languages": []}, "matched_games": 8263}

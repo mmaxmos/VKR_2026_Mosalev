@@ -1,0 +1,70 @@
+﻿@import "tailwindcss";
+
+/* --- РџРѕРґРєР»СЋС‡Р°РµРј С€СЂРёС„С‚С‹ Рё Tailwind --- */
+@font-face {
+  font-family: 'Onest';
+  src: url('/fonts/Onest/Onest-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter Tight';
+  src: url('/fonts/Inter_Tight/InterTight-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter Tight';
+  src: url('/fonts/Inter_Tight/InterTight-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+/* --- РћСЃРЅРѕРІРЅС‹Рµ СЃС‚РёР»Рё --- */
+body {
+  font-family: 'Onest', sans-serif;
+  background-color: #F4F6FB;
+  color: #1D2433;
+}
+
+/* Р“СЂР°РґРёРµРЅС‚РЅС‹Р№ Р»РѕРіРѕС‚РёРї */
+.gamefuse-gradient {
+  background: linear-gradient(106.35deg, #E52862 -11.99%, #FFC132 104.13%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-weight: 900;
+}
+
+/* РЈР±РёСЂР°РµРј СЃС‚СЂРµР»РєРё Сѓ number input */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* РљР°СЃС‚РѕРјРЅС‹Р№ СЃРєСЂРѕР»Р»Р±Р°СЂ */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #E7EDF7;
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #BCC8DB;
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #A7B6CE;
+}

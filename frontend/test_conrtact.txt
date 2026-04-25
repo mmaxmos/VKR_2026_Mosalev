@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "data": {
+    "games": [
+      {
+        "id": "730",
+        "title": "Arc Raiders",
+        "subtitle": "Pitch Pack",
+        "similarity_percentage": 98,
+        "image_url": "https://cdn.example.com/games/arc-raiders.jpg",
+        "image_alt": "Arc Raiders - обложка игры",
+        "tier": "AA",
+        "metrics": {
+          "entry_type": "Вход",
+          "budget": "Бюджет AA",
+          "release_date": "10.10.2025",
+          "price": "15$",
+          "peak_ccu": "30 000",
+          "estimated_revenue": "100$-150$",
+          "developer": "Embark Studios",
+          "publisher": "Nexon"
+        },
+        "genres": ["Экшен", "Шутер", "Кооператив"],
+        "categories": ["Кооперативная игра", "Приключение"],
+        "mechanics": ["Тактические бои", "Прогрессия персонажа"],
+        "advantages": {
+          "pros": ["Качественные саундтреки", "Глубокий сюжет"],
+          "cons": ["Высокие системные требования", "Нет одиночного режима"]
+        },
+        "tags": ["Tier 1", "Tier 2", "Tier 3", "Tier 4", "Tier 5", "Tier 6"]
+      },
+      {
+        "id": "10",
+        "title": "Helldivers 2",
+        "subtitle": "Pitch Pack",
+        "similarity_percentage": 85,
+        "image_url": "https://cdn.example.com/games/helldivers-2.jpg",
+        "image_alt": "Helldivers 2 - обложка",
+        "tier": "AA",
+        "metrics": {
+          "entry_type": "Вход",
+          "budget": "Бюджет AA",
+          "release_date": "08.02.2024",
+          "price": "40$",
+          "peak_ccu": "458 000",
+          "estimated_revenue": "200$-300$",
+          "developer": "Arrowhead Game Studios",
+          "publisher": "Sony Interactive Entertainment"
+        },
+        "genres": ["Шутер", "Кооператив", "Экшен"],
+        "categories": ["Кооперативная игра", "Экшен"],
+        "mechanics": ["Кооперативный геймплей", "Тактические бои"],
+        "advantages": {
+          "pros": ["Веселый кооператив", "Динамичный геймплей"],
+          "cons": ["Проблемы с серверами", "Баланс оружия"]
+        },
+        "tags": ["Tier 1", "Tier 2", "Tier 3"]
+      }
+      // ... еще 18 игр
+    ],
+    "total": 150,
+    "limit": 20,
+    "offset": 0
+  }
+}
