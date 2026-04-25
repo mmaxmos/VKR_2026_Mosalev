@@ -1,4 +1,4 @@
-# GameFuse — Backend (FastAPI)
+# Backend (FastAPI)
 
 # Быстрый старт
 
