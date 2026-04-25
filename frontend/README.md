@@ -1,4 +1,4 @@
-# GameFuse — Frontend
+# Frontend
 
 Краткое описание
 - Лёгкий интерфейс **(React + Vite + Tailwind)** для анализа игровых идей и ниши.
